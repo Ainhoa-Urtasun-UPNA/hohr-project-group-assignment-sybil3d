@@ -12,9 +12,9 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 ***
- *CMH Capital Inc, Wilminton -> total employees: 11,000
- *Southern Energy Homes Inc, Addison -> total employees: 2,304
- *Cavalier Homes Inc, Adison -> total employees: 1,012
+ * CMH Capital Inc, Wilminton -> total employees: 11,000
+ * Southern Energy Homes Inc, Addison -> total employees: 2,304
+ * Cavalier Homes Inc, Adison -> total employees: 1,012
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
