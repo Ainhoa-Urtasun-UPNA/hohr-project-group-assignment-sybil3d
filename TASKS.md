@@ -17,9 +17,9 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
 * List of your company's support activities:
-* Manufacturing prefabricated wood buildings not equipped with wheels--are classified in U.S. Industry 321992, Prefabricated Wood Building Manufacturing
-* Manufacturing travel trailers with self-contained facilities for storage of water and waste--are classified in U.S. Industry 336214, Travel Trailer and Camper Manufacturing
-* Setting up manufactured homes (i.e., mobile homes) at the construction site--are classified in Industry 238990, All Other Specialty Trade Contractors.
+  * Manufacturing prefabricated wood buildings not equipped with wheels--are classified in U.S. Industry 321992, Prefabricated Wood Building Manufacturing
+  * Manufacturing travel trailers with self-contained facilities for storage of water and waste--are classified in U.S. Industry 336214, Travel Trailer and Camper Manufacturing
+  * Setting up manufactured homes (i.e., mobile homes) at the construction site--are classified in Industry 238990, All Other Specialty Trade Contractors.
 ***
 
 ## Task 2
