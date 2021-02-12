@@ -16,7 +16,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Cavalier Homes Inc, Adison -> total employees: 1,012
 ***
 
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):627
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
