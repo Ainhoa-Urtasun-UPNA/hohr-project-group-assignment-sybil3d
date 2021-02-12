@@ -3,7 +3,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name:
+* Your company's name: Sybil3d
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
 
