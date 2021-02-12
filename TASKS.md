@@ -19,8 +19,8 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
-*engineering activities:
-*operation activities:
+  * engineering activities:
+  * operation activities:
 ***
 * List of your company's support activities:
   * Manufacturing prefabricated wood buildings not equipped with wheels--are classified in U.S. Industry 321992, Prefabricated Wood Building Manufacturing
