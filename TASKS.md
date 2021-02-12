@@ -5,7 +5,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Your company's name: Sybil3d
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 321991
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 321991. "Manufactured Home (Mobile Home) Manufacturing"
+This U.S. industry comprises establishments primarily engaged in making manufactured homes (i.e., mobile homes) and nonresidential mobile buildings. Manufactured homes are designed to accept permanent water, sewer, and utility connections and although equipped with wheels, they are not intended for regular highway movement.
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
@@ -16,6 +17,9 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
 * List of your company's support activities:
+Manufacturing prefabricated wood buildings not equipped with wheels--are classified in U.S. Industry 321992, Prefabricated Wood Building Manufacturing;
+Manufacturing travel trailers with self-contained facilities for storage of water and waste--are classified in U.S. Industry 336214, Travel Trailer and Camper Manufacturing; and
+Setting up manufactured homes (i.e., mobile homes) at the construction site--are classified in Industry 238990, All Other Specialty Trade Contractors.
 ***
 
 ## Task 2
