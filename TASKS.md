@@ -5,15 +5,17 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Your company's name: Sybil3d
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 
-*Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
- * 321991. "Manufactured Home (Mobile Home) Manufacturing"
- * This U.S. industry comprises establishments primarily engaged in making manufactured homes (i.e., mobile homes) and nonresidential mobile buildings. Manufactured homes are designed to accept permanent water, sewer, and utility connections and although equipped with wheels, they are not intended for regular highway movement.
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 321991. "Manufactured Home (Mobile Home) Manufacturing"
+This U.S. industry comprises establishments primarily engaged in making manufactured homes (i.e., mobile homes) and nonresidential mobile buildings. Manufactured homes are designed to accept permanent water, sewer, and utility connections and although equipped with wheels, they are not intended for regular highway movement.
 
+*Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
+ *CMH Capital Inc, Wilminton -> total employees: 11,000
+ *Southern Energy Homes Inc, Addison -> total employees: 2,304
+ *Cavalier Homes Inc, Adison -> total employees: 1,012
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
