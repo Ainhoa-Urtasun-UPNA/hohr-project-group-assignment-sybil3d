@@ -13,7 +13,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
