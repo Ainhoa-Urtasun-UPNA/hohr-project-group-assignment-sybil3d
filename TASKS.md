@@ -86,10 +86,10 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 
 * ### Engineers
 * ONET-SOC code and title:Operating engineers and other construction equipment operators. **CODE:47-2073.00**
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* They learn and follow safety regulations, The importance score is 97
-* They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
-* They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. The importance score is 90.
+ * 5 most important tasks they carry out (provide the importance score, in Details):
+ * They learn and follow safety regulations, The importance score is 97
+ * They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
+ * They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. The importance score is 90.
 * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88
  * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
   
