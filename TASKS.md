@@ -88,10 +88,10 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * ONET-SOC code and title:Operating engineers and other construction equipment operators. **CODE:47-2073.00**
  * 5 most important tasks they carry out (provide the importance score, in Details):
    * They learn and follow safety regulations, The importance score is 97
-  * They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
-  * They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. The importance score is 90.
-  * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88.
-  * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
+   * They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
+   * They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. The importance score is 90.
+   * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88.
+   * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
 
 * Is this job routine? Your judgment (0-10):6 The engineer has a routine job having to learn the basic rules of operations machines and make the necessary calculations. However, he has to be prepared for future unforeseen events, to work on the different constructions, to plan the work according to the terrain and the available materials and to coordinate the multiple activities.
 * Is this job cognitive? Your judgment (0-10): 8. The engineer has a cognitive rather than a physical role. Since their work involves the design and construction of the product and the study of the techniques to carry it out.Therefore, it requires capacities of attention, perception, creativity, and information processing. 
@@ -113,7 +113,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Education:
   * High school diploma or equivalent Help
   * Some college, no degree
-  * 	Less than high school diploma
+  * Less than high school diploma
 
 * Wages:
   * Median wages (2019)	$23.55 hourly, $48,980 annual
