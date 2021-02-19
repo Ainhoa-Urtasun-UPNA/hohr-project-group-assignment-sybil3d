@@ -19,8 +19,14 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
-  * engineering activities: research the product, prototyping, interior designing, exterior designing, product development
-  * operation activities:
+* **Engineering activities: In this type of activities we have included the research of the product, prototyping, interior designing, exterior designing and product development.** 
+  * In research of the product we have consideredthe creation of the product in a conceptual way, the engineer studying the market, the needs of its potential customers, the posible technical solutions he can offer, the innovations he can make to the existing projects in the market... 
+  * In the prototyping we have considered the experimental process in which the engineers implement the design ideas and materializes it in a physical prototype that will have the fundamental characteristics.
+  * We have included in our activities both the interior and exterior designing because as our product is a finished home that is ready to move in, they are really involved in the process of creating the product. Our designers will have an engineering background because their implementations must fit exactly in the given structure provided by the engineering team. 
+  * The product development will be done by the group of engineers who have done the research of the product, the design and the prototyping. They will look forward to improve the final product based on ideas they can have or even by recommendations that can give in other departments or even by clients.   
+*  **Operation activities: Marketing, after-sell service and quality control **
+*  In marketing we have included those activities that tend to enchance the perception of value of the customer. 
+* 
 ***
 * List of your company's support activities:
   * Manufacturing prefabricated wood buildings not equipped with wheels--are classified in U.S. Industry 321992, Prefabricated Wood Building Manufacturing
