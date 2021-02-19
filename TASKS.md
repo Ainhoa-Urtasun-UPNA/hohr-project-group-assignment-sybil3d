@@ -26,9 +26,10 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Transportation and distribution (logistics)
   * Training and development activities
   * Health and safety programms
-  * Waste managements
+  * Waste management
   * Setting up the manufactured homes
   * After sales service and customer service
+  * Marketing activities
 ***
 
 ## Task 2
