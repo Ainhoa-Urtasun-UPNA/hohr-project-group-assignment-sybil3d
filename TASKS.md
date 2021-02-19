@@ -19,7 +19,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
-* 
+ 
 **Engineering activities: In this type of activities we have included the research of the product, prototyping, interior designing, exterior designing and product development.** 
    * In research of the product we have consideredthe creation of the product in a conceptual way, the engineer studying the market, the needs of its potential customers, the posible technical solutions he can offer, the innovations he can make to the existing projects in the market... 
    * In the prototyping we have considered the experimental process in which the engineers implement the design ideas and materializes it in a physical prototype that will have the fundamental characteristics.
