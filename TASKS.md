@@ -30,6 +30,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Setting up the manufactured homes
   * After sales service and customer service
   * Human resource management
+  * Technology development
   
 ***
 
