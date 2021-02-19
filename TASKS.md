@@ -24,13 +24,14 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 ***
 * List of your company's support activities:
   * Transportation and distribution (logistics)
-  * Training and development activities
   * Health and safety programms
   * Waste management
-  * Setting up the manufactured homes
-  * After sales service and customer service
-  * Human resource management
-  * Technology development
+  * After sales service and customer service: manage of complaints of unsatisfied customers, doubts, help customers. In these activities we could include the installation, setting up the manufactured homes, repairements, product adjustment.
+  * Human resource management: recruitments, selection process, hiring and firing, training and development activities, employees support programs, motivation activities, retention of employees and managers
+  * Technology development: development of programs to get new and usefull technology that could be applied in the production process. This could include process autoation, product design, new machinery development, environmetal programs, telecommunication technology, accounting automation software and customer servicing procedures. The objective is to improve the product and the production process taking into account the efficiency.
+  * Management activities such as business planinngs, target objectives, business organization, business controls, finance, accounting, legal, government affairs and quality management. 
+  * Statistical and market analysis in order know better the market, possibilities, new opportunities
+  * Procurements: purchasing inputs used in the firm’s value chain. These inputs include ts raw materials, supplies and other consumable items as well as assets such as machinery, laboratory equipment, office equipment and buildings.
   
 ***
 
