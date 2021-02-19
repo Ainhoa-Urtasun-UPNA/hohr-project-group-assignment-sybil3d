@@ -19,27 +19,18 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
- 
-**Engineering activities: In this type of activities we have included the research of the product, prototyping, interior designing, exterior designing and product development.** 
-   * In research of the product we have consideredthe creation of the product in a conceptual way, the engineer studying the market, the needs of its potential customers, the posible technical solutions he can offer, the innovations he can make to the existing projects in the market... 
-   * In the prototyping we have considered the experimental process in which the engineers implement the design ideas and materializes it in a physical prototype that will have the fundamental characteristics.
-   * We have included in our activities both the interior and exterior designing because as our product is a finished home that is ready to move in, they are really involved in the process of creating the product. Our designers will have an engineering background because their implementations must fit exactly in the given structure provided by the engineering team. 
-   * The product development will be done by the group of engineers who have done the research of the product, the design and the prototyping. They will look forward to improve the final product based on ideas they can have or even by recommendations that can give in other departments or even by clients.   
-
-**Operation activities: Marketing, after-sales service, customer service and quality control**
-   * In marketing we have included those activities that tend to enchance the perception of value of the customer. 
-   * In after sales service and customer service we have considered the management of complaints of unsatisfied customers, doubts or just helping customers. In these activities we could include the installation service, setting up the manufactured homes, repairements, product adjustments. It is also related to the 20-year warranty that we will offer to our customers. So if there is any defect in the product (it won't happen ideally because we have a quality control department that works hard to prevent those situations taking place) the client will contact our service to ask for a reparation. 
-   * In quality control we will have a meticolous group of workers that will have the task of perceiving if there is any flaw in our product and in that case remove that individual product and communicate with the engineering and operations department. 
-
+  * engineering activities: research the product, prototyping, interior designing, exterior designing, product development
+  * operation activities:
 ***
 * List of your company's support activities:
-  * **Transportation and distribution (logistics)**
-  * **Waste management**
-  * **Human resource management**: recruitments, selection process, hiring and firing, training and development activities, employees support programs, motivation activities, retention of employees and managers
-  * **Technology development**: development of programs to get new and usefull technology that could be applied in the production process. This could include process autoation, product design, new machinery development, environmetal programs, telecommunication technology, accounting automation software and customer servicing procedures. The objective is to improve the product and the production process taking into account the efficiency.
-  * **Management activities** such as business planinngs, target objectives, business organization, business controls, finance, accounting, legal services, government affairs and quality management, health and safety programms.
-  * **Statistical and market analysis** in order know better the market, possibilities, new opportunities
-  * **Procurements**: purchasing inputs used in the firm’s value chain. These inputs include ts raw materials, supplies and other consumable items as well as assets such as machinery, laboratory equipment, office equipment and buildings.
+  * Transportation and distribution (logistics)
+  * Training and development activities
+  * Health and safety programms
+  * Waste management
+  * Setting up the manufactured homes
+  * After sales service and customer service
+  * Human resource management
+  * Technology development
   
 ***
 
@@ -47,15 +38,42 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: Construction manager (11-9021.00)
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
+  * Plan, schedule, or coordinate construction project activities to meet deadlines (score:94).
+  * Prepare and submit budget estimates, progress reports, or cost tracking reports (score:**91**). 
+  * Interpret and explain plans and contract terms to representatives or the owner or developer, including administrative staff, workers, or clients (score:**90**)
+  * Direct and supervise construction or related workers (score:**84**)
+  * Prepare contracts or negotiate revisions to contractual agreements with architectss, consultants, clients, suppliers, or subcontractors (score:**80**)
+  
+* Is this job routine? Your judgment (0-10): It seems that the job is a **3** routine job, because the task the person has to develop is not relate to repetitives tasks and each task is more related to plan and orientate the employees.  
+* Is this job cognitive? Your judgment (0-10): The job is a **8** cognitive task, because a large part of the job is related to listening to employees, talking to others, preparing schedules, orientating...  
+* 5 most important skills they require to possess (provide the importance score, in Details): 
+  * Coordination: Adjusting actions in relation to others' actions (score: **75**)
+  * Management of Personnel Resources: Motivating, developing, adn directing peope as they work, identyfing the best people for the job (score: **75**)
+  * Active listening: Giving full attention to what other people are saying, taking time to undestand the points being made, asking questions as appopiate, and not interrupting at inappropiate times (score: **72**)
+  *  Monitoring: Monitoring/assessing perfromance of yourself, other individuals, or organizations to make imptovements or take corrective action (score: **72**)
+  * Speaking: talking to others to convey information effectively (score: **72**)
 * 5 technology skills:
+  * Analytical or scientific Software
+  * Calendar and scheduling software
+  * Data base user interface and query software
+  * Document management software
+  * Electronic mail software
 * Education:
+  * Bachelor's degree
+  * High school diploma or equivalent
+  * Associate's degree
 * Wages:
+  * Median wages (2019): 45.80 hours, $95,260 annual 
+  * Employment (2019): 476.700 employees 
+  * projected growth (2019-2019): much aster average (8% or higher)
+  * Projected job openings (2019-2029): 34.700
 * Top industry:
+  * Helpers-roofers 
+  * Terrazzo Workers and Finishers 
+  * Pile Drivers Operators 
+  * Helpers - Pipelayers, Plumbers, Pipefitters, and Steamfitters.
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
