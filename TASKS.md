@@ -19,8 +19,16 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 627
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
-  * engineering activities: research the product, prototyping, interior designing, exterior designing, product development
-  * operation activities:
+**Engineering activities: In this type of activities we have included the research of the product, prototyping, interior designing, exterior designing and product development.** 
+  * In research of the product we have consideredthe creation of the product in a conceptual way, the engineer studying the market, the needs of its potential customers, the posible technical solutions he can offer, the innovations he can make to the existing projects in the market... 
+  * In the prototyping we have considered the experimental process in which the engineers implement the design ideas and materializes it in a physical prototype that will have the fundamental characteristics.
+  * We have included in our activities both the interior and exterior designing because as our product is a finished home that is ready to move in, they are really involved in the process of creating the product. Our designers will have an engineering background because their implementations must fit exactly in the given structure provided by the engineering team. 
+  * The product development will be done by the group of engineers who have done the research of the product, the design and the prototyping. They will look forward to improve the final product based on ideas they can have or even by recommendations that can give in other departments or even by clients.   
+**Operation activities: Marketing, after-sales service, customer service and quality control**
+  * In marketing we have included those activities that tend to enchance the perception of value of the customer. 
+  * In after sales service and customer service we have considered the management of complaints of unsatisfied customers, doubts or just helping customers. In these activities we could include the installation service, setting up the manufactured homes, repairements, product adjustments. It is also related to the 20-year warranty that we will offer to our customers. So if there is any defect in the product (it won't happen ideally because we have a quality control department that works hard to prevent those situations taking place) the client will contact our service to ask for a reparation. 
+  * In quality control we will have a meticolous group of workers that will have the task of perceiving if there is any flaw in our product and in that case remove that individual product and communicate with the engineering and operations department.
+
 ***
 * List of your company's support activities:
   * **Transportation and distribution** (logistics)
@@ -77,37 +85,37 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * ### Engineers
 * ONET-SOC code and title:Operating engineers and other construction equipment operators. **CODE:47-2073.00**
 * 5 most important tasks they carry out (provide the importance score, in Details):
- * They learn and follow safety regulations, The importance score is 97
- * They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
- * They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. The importance score is 90.
-  * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88
-  * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
+* They learn and follow safety regulations, The importance score is 97
+* They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
+* They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. The importance score is 90.
+* Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88
+ * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
   
 * Is this job routine? Your judgment (0-10):6 The engineer has a routine job having to learn the basic rules of operations machines and make the necessary calculations. However, he has to be prepared for future unforeseen events, to work on the different constructions, to plan the work according to the terrain and the available materials and to coordinate the multiple activities.
 * Is this job cognitive? Your judgment (0-10): 8. The engineer has a cognitive rather than a physical role. Since their work involves the design and construction of the product and the study of the techniques to carry it out.Therefore, it requires capacities of attention, perception, creativity, and information processing. 
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
- * Electronic mail software
- * Facilities management software
- * Office suite software
- * Operating system software
- * Spreadsheet software
+* Electronic mail software
+* Facilities management software
+* Office suite software
+* Operating system software
+* Spreadsheet software
 
 * Education:
- * High school diploma or equivalent Help
- * Some college, no degree
- * 	Less than high school diploma
+* High school diploma or equivalent Help
+* Some college, no degree
+* 	Less than high school diploma
 
 * Wages:
 * Median wages (2019)	$23.55 hourly, $48,980 annual
 * Employment (2019)	418,000 employees
 * Top industry:
- * 99%	47-3016.00	Helpers--Roofers
- * 97%	47-2053.00	Terrazzo Workers and Finishers
- * 95%	47-2072.00	Pile Driver Operators
- * 94%	47-3015.00	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters 
- * 94%	47-3011.00	Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+* 99%	47-3016.00	Helpers--Roofers
+* 97%	47-2053.00	Terrazzo Workers and Finishers
+* 95%	47-2072.00	Pile Driver Operators
+* 94%	47-3015.00	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters 
+* 94%	47-3011.00	Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
