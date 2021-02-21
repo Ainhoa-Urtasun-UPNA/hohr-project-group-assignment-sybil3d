@@ -85,7 +85,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Helpers - Pipelayers, Plumbers, Pipefitters, and Steamfitters.
 
 ### Engineers
-* * ONET-SOC code and title: Materials Engineers (17-2131.00)
+* ONET-SOC code and title: Materials Engineers (17-2131.00)
 
 * 5 most important tasks they carry out (provide the importance score, in Details):
   * Analyze product failure data and laboratory test results to determine causes of problems and develop solutions. See more occupations related to this task. (Score 83)
@@ -99,11 +99,11 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Is this job cognitive? Your judgment (0-10): 8. The engineer has a cognitive rather than a physical role. Since their work involves the design and construction of the product and the study of the techniques to carry it out.Therefore, it requires capacities of attention, perception, creativity, and information processing. 
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-  * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (Score 75)
-  * Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. (Score 75)
-  * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-  * Science — Using scientific rules and methods to solve problems. (Score 75)
-  * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. (Score 72)
+  * Active Listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (Score 75)
+  * Complex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. (Score 75)
+  * Reading Comprehension: Understanding written sentences and paragraphs in work related documents.
+  * Science: Using scientific rules and methods to solve problems. (Score 75)
+  * Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. (Score 72)
   
 * 5 technology skills:
   * Analytical or scientific software
