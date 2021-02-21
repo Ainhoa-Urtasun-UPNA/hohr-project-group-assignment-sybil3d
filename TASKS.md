@@ -85,36 +85,27 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Helpers - Pipelayers, Plumbers, Pipefitters, and Steamfitters.
 
 ### Engineers
-* ONET-SOC code and title: Materials Engineers (17-2131.00)
-
+* * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
-  * Analyze product failure data and laboratory test results to determine causes of problems and develop solutions. See more occupations related to this task. (Score 83)
-  * Design and direct the testing or control of processing procedures. See more occupations related to this task. (Score 80)
-  * Monitor material performance and evaluate material deterioration. See more occupations related to this task. (Score 79)
-  * Conduct or supervise tests on raw materials or finished products to ensure their quality. See more occupations related to this task. (Score 78)
-  * Evaluate technical specifications and economic factors relating to process or product design objectives. (Score 78)
-  
-* Is this job routine? Your judgment (0-10): The engineer has a routine job having to learn the basic rules of operations machines and make the necessary calculations. However, he has to be prepared for future unforeseen events, to work on the different constructions, to plan the work according to the terrain and the available materials and to coordinate the multiple activities.
-
-* Is this job cognitive? Your judgment (0-10): 8. The engineer has a cognitive rather than a physical role. Since their work involves the design and construction of the product and the study of the techniques to carry it out.Therefore, it requires capacities of attention, perception, creativity, and information processing. 
-
+* Is this job routine? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
-  * Active Listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (Score 75)
-  * Complex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. (Score 75)
-  * Reading Comprehension: Understanding written sentences and paragraphs in work related documents.
-  * Science: Using scientific rules and methods to solve problems. (Score 75)
-  * Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. (Score 72)
-  
 * 5 technology skills:
-  * Analytical or scientific software
-  * Computer aided design CAD software
-  * Computer aided manufacturing CAM software 
-  * Data base user interface and query software 
-  * Development environment software 
 
 * Education:
+  * 	Bachelor's degree
+  * 		Doctoral degree
+  * 			Master's degree
 * Wages:
+  * Median wages (2019)	$44.88 hourly, $93,360 annual
+  * Employment (2019)	27,500 employees
+
 * Top industry:
+  * 98%	51-4052.00	Pourers and Casters, Metal
+  * 97%	51-9011.00	Chemical Equipment Operators and Tenders	 
+  * 97%	51-4034.00	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	
+  * 97%	51-4071.00	Foundry Mold and Coremakers	
+  * 96%	51-6064.00	Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
 
 
 ### Operators
@@ -127,8 +118,8 @@ This U.S. industry comprises establishments primarily engaged in making manufact
    * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88.
    * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
 
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10): 
+* Is this job routine? Your judgment (0-10):6 The engineer has a routine job having to learn the basic rules of operations machines and make the necessary calculations. However, he has to be prepared for future unforeseen events, to work on the different constructions, to plan the work according to the terrain and the available materials and to coordinate the multiple activities.
+* Is this job cognitive? Your judgment (0-10): 8. The engineer has a cognitive rather than a physical role. Since their work involves the design and construction of the product and the study of the techniques to carry it out.Therefore, it requires capacities of attention, perception, creativity, and information processing. 
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
   * Operation and Control — Controlling operations of equipment or systems.See more occupations related to this skill. Score: 78  	
