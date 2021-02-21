@@ -112,8 +112,20 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Development environment software
 
 * Education:
+  * Bachelor's degree
+  * Doctoral degree
+  * Master's degree
+
 * Wages:
+  * Median wages (2019)	$44.88 hourly, $93,360 annual
+  * Employment (2019)	27,500 employees
+
 * Top industry:
+  * 98%	51-4052.00	Pourers and Casters, Metal
+  * 97%	51-9011.00	Chemical Equipment Operators and Tenders	 
+  * 97%	51-4034.00	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	
+  * 97%	51-4071.00	Foundry Mold and Coremakers	
+  * 96%	51-6064.00	Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
 
 
 ### Operators
