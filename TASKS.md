@@ -94,8 +94,8 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 
 * Education:
   * 	Bachelor's degree
-  * 		Doctoral degree
-  * 			Master's degree
+  * 	Doctoral degree
+  * 	Master's degree
 * Wages:
   * Median wages (2019)	$44.88 hourly, $93,360 annual
   * Employment (2019)	27,500 employees
