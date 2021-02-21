@@ -85,6 +85,19 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Helpers - Pipelayers, Plumbers, Pipefitters, and Steamfitters.
 
 * ### Engineers
+* * ONET-SOC code and title:
+* 5 most important tasks they carry out (provide the importance score, in Details):
+* Is this job routine? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):
+* 5 most important skills they require to possess (provide the importance score, in Details):
+* 5 technology skills:
+* Education:
+* Wages:
+* Top industry:
+***
+
+### Operators
+
 * ONET-SOC code and title:Operating engineers and other construction equipment operators. **CODE:47-2073.00**
  * 5 most important tasks they carry out (provide the importance score, in Details):
    * They learn and follow safety regulations, The importance score is 97
@@ -125,17 +138,6 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * 95%	47-2072.00	Pile Driver Operators
   * 94%	47-3015.00	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters 
   * 94%	47-3011.00	Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
-### Operators
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
-***
 
 ## Task 3
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
