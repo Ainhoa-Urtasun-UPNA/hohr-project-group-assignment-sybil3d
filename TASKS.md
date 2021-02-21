@@ -94,7 +94,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Education:
 * Wages:
 * Top industry:
-***
+
 
 ### Operators
 
@@ -138,6 +138,8 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * 95%	47-2072.00	Pile Driver Operators
   * 94%	47-3015.00	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters 
   * 94%	47-3011.00	Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+
+***
 
 ## Task 3
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
