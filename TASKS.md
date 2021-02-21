@@ -91,26 +91,15 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
-
 * Education:
-  * Bachelor's degree
-  * Doctoral degree
-  * Master's degree
 * Wages:
-  * Median wages (2019)	$44.88 hourly, $93,360 annual
-  * Employment (2019)	27,500 employees
-
 * Top industry:
-  * 98%	51-4052.00	Pourers and Casters, Metal
-  * 97%	51-9011.00	Chemical Equipment Operators and Tenders	 
-  * 97%	51-4034.00	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	
-  * 97%	51-4071.00	Foundry Mold and Coremakers	
-  * 96%	51-6064.00	Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
 
 
 ### Operators
 
 * ONET-SOC code and title:Operating engineers and other construction equipment operators. **CODE:47-2073.00**
+*  We have considered this specific role as an operator although the name can make us think that we are looking at an engineer. At first we thought about clasifying it as an engineer, but once we have analyzed the tasks, education and skills demanded for this position we have realized that this role is the one of an operator. In fact, this is the exact operator that we needed because our machinery is high-tech as we have implemented the 3D Industry in a complex sector. So a normal operator wouldn't be as prepared as we need to use and control this specific machinery and one with a higher education will be more useful and efficient. In fact, our operator doesn't need to have a degree but we would need some diplomas in both operation of 3D printers and safety regulation. 
  * 5 most important tasks they carry out (provide the importance score, in Details):
    * They learn and follow safety regulations, The importance score is 97
    * They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
@@ -118,8 +107,8 @@ This U.S. industry comprises establishments primarily engaged in making manufact
    * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88.
    * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
 
-* Is this job routine? Your judgment (0-10):6 The engineer has a routine job having to learn the basic rules of operations machines and make the necessary calculations. However, he has to be prepared for future unforeseen events, to work on the different constructions, to plan the work according to the terrain and the available materials and to coordinate the multiple activities.
-* Is this job cognitive? Your judgment (0-10): 8. The engineer has a cognitive rather than a physical role. Since their work involves the design and construction of the product and the study of the techniques to carry it out.Therefore, it requires capacities of attention, perception, creativity, and information processing. 
+* Is this job routine? Your judgment (0-10):8 The operator has a routine job having to operate the machines that print the models and do some routine and simple assemblies in certain pieces that have to be joined. Although the job is very mechanic, the operator is supposed to do certain tasks that are not that routine as controlling the condition of some parts.
+* Is this job cognitive? Your judgment (0-10): 3. The job is not highly cognitive as it is not necessary to do really difficult calculous and the knowledge it is needed to be applied is the basic about the utilization and operation of 3D printing machines. 
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
   * Operation and Control — Controlling operations of equipment or systems.See more occupations related to this skill. Score: 78  	
@@ -136,7 +125,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
   * Spreadsheet software
 
 * Education:
-  * High school diploma or equivalent Help
+  * High school diploma or equivalent
   * Some college, no degree
   * Less than high school diploma
 
