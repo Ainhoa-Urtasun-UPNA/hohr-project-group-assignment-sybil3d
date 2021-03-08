@@ -178,8 +178,10 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
+
+Theorically, taking into account the data of other companies, at the beggining of the year there were 15 managers, 20 engineers and 50 operators. This correspond to matrix D. Then,  considering the jobs movements explained in the paragraph above, we get the matrix M. Finally, today we have 4 managers in the company, no operators and engineers (matrix B) (calculations can be checked in Laura brand). After solving the operation we get that the expected number of available workers at the end of 2021 are the following: 1,33 managers, 0 engineers and 1,33 operators. That means 1 manager, 0 engineers and 1 operator. 
+
 ***
-Theorically, taking into account the data of other companies, at the beggining of the year there were 15 managers, 20 eingeneers and 50 operators. This correspond to matxi D. Then,  considering the jobs movements explained in the paragraph above, we get the matrix M. Finally, toay we have 4 managers in the company, no operators and engineers (matrix B) (calculations can be checked in Laura brand). After solving the operation we get that the expected number of available workers at the end of 2021 are the following: 1,33 managers, 0 engineers and 1,33 operators. That means 1 manager, 0 engineers and 1 operator. 
 
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
