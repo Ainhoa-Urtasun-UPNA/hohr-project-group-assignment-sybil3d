@@ -192,10 +192,10 @@ Theorically, taking into account the data of other companies, at the beggining o
 ***
 Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in one year from now for each of its 3 occupations if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators. 
 
-X = ([[15,1,0,0],[17,1,0,0],[14,1,0,0],[6,0,1,0],[6,0,1,0],[5,0,1,0],[23,0,0,1],[27,0,0,1],[25,0,0,1]])
-Y = ([[4],[6],[5],[13],[12],[13],[7],[7],[9]])
+* X = ([[15,1,0,0],[17,1,0,0],[14,1,0,0],[6,0,1,0],[6,0,1,0],[5,0,1,0],[23,0,0,1],[27,0,0,1],[25,0,0,1]])
+* Y = ([[4],[6],[5],[13],[12],[13],[7],[7],[9]])
 
-From the unmeplyment data for each tree types of workers and taking into account the need for workers on average and per firm, if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators , the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. These predictions are the result of the calculations obtained from the matrix operations. The last matrix obtained was [4,3333,12,458,7,0417], so after the aproximations the predictions obtained are the metioned previously.
+From the unmeplyment data for each tree types of workers and taking into account the need for workers on average and per firm, if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators , the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. These predictions are the result of the calculations obtained from the matrix operations. The last matrix obtained was [4'3333,12'458,7'0417], so after the aproximations the predictions obtained are the metioned previously.
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
