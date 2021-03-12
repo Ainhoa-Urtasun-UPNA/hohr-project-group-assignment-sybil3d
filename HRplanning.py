@@ -8,8 +8,8 @@ a = M@numpy.linalg.inv(D)@b
 print(a)
 
 # Forecasting number of needed workers
-X = numpy.array([[],[],[],[],[],[],[],[],[]])
-Y = numpy.array([[],[],[],[],[],[],[],[],[]])
+X = numpy.array([[15,1,0,0],[17,1,0,0],[14,1,0,0],[6,0,1,0],[6,0,1,0],[5,0,1,0],[23,0,0,1],[27,0,0,1],[25,0,0,1]])
+Y = numpy.array([[4],[6],[5],[13],[12],[13],[7],[7],[9]])
 XTX = numpy.matmul(X.T,X)
 print(XTX)
 inverse = numpy.linalg.inv(XTX)
@@ -18,3 +18,5 @@ XTY = numpy.matmul(X.T,Y)
 print(XTY)
 betas = numpy.matmul(inverse,XTY)
 print(betas)
+y = numpy.array([[10,1,0,0],[4,0,1,0],[20,0,0,1]])@betas
+print(y)
