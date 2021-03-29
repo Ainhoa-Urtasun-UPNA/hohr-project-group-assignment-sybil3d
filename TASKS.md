@@ -199,7 +199,7 @@ From the unmeplyment data for each tree types of workers and taking into account
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
-The expected number of available workers at the end of 2021 was 1 manager, 0 engineers and 1 operator and the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. So the mismatch  is 3 managers, 12 engineers and 6 operators. The company will have to think about hiring new workers in order to grow and improve its situation.
+The expected number of available workers at the end of 2021 was 1 manager, 0 engineers and 1 operator and the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. So the mismatch  is 3 managers, 12 engineers and 6 operators. There is a shortage so the company will have to think about hiring new workers in order to grow and improve its situation.
 
 ***
 
