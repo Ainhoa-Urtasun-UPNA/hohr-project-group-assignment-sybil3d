@@ -206,18 +206,18 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
-### Job posting for Managers:
-  * Occupation (SOC):
-  * Industry (NAIC)
+### Job posting for Managers: 
+  * Occupation (SOC): Construction manager (11-9021.00) 
+  * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills
-  * required credentials and year of experience 
+  * required credentials and year of experience: W
   * job type (full-time, part-time)
   * Location 
   * Salary, benefits and perks
  
 ### Job posting for Engineers:
- * Occupation (SOC):
-  * Industry (NAIC)
+ * Occupation (SOC): Materials Engineers (17-2131.00)
+  * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills
   * required credentials and year of experience 
   * job type (full-time, part-time)
@@ -225,9 +225,9 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * Salary, benefits and perks
  
 ### Job posting for Operators:
- * Occupation (SOC):
-  * Industry (NAIC)
-  * List of task and skills
+ * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
+  * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
+  * List of task and skills 
   * required credentials and year of experience 
   * job type (full-time, part-time)
   * Location 
