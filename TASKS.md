@@ -207,37 +207,31 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
-**occuparion (SOC):
-
-**Industry (NAICS)
-
-**List of task and skills
-
-**required credentials and years of experience
-
-**Job type (full-time, part-time)
-
-**Location 
-
-**Salary, benefits and perks 
-
+  * Occupation (SOC):
+  * Industry (NAIC)
+  * List of task and skills
+  * required credentials and year of experience 
+  * job type (full-time, part-time)
+  * Location 
+  * Salary, benefits and perks
+ 
 ### Job posting for Engineers:
- **occuparion (SOC):
- **Industry (NAICS)
- **List of task and skills
- **required credentials and years of experience
- **Job type (full-time, part-time)
- **Location 
- **Salary, benefits and perks 
+ * Occupation (SOC):
+  * Industry (NAIC)
+  * List of task and skills
+  * required credentials and year of experience 
+  * job type (full-time, part-time)
+  * Location 
+  * Salary, benefits and perks
+ 
 ### Job posting for Operators:
-**occuparion (SOC):
-**Industry (NAICS)
-**List of task and skills
-**required credentials and years of experience
-**Job type (full-time, part-time)
-**Location 
-**Salary, benefits and perks 
-***
+ * Occupation (SOC):
+  * Industry (NAIC)
+  * List of task and skills
+  * required credentials and year of experience 
+  * job type (full-time, part-time)
+  * Location 
+  * Salary, benefits and perks
 
 ## Task 6
 * Objective: Create a website for your project
