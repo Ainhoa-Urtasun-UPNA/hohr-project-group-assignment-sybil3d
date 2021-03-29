@@ -212,8 +212,8 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * List of task and skills
   * required credentials and year of experience: 
   * job type (full-time, part-time): full-time
-  * Location 
-  * Salary, benefits and perks
+  * Location: remote or in the office centers.
+  * Salary, benefits and perks: 
  
 ### Job posting for Engineers:
  * Occupation (SOC): Materials Engineers (17-2131.00)
@@ -221,7 +221,7 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * List of task and skills: 
   * required credentials and year of experience: 
   * job type (full-time, part-time): full-time
-  * Location: 
+  * Location: remote or offices center in Prague 
   * Salary, benefits and perks: 
  
 ### Job posting for Operators:
@@ -229,8 +229,8 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
   * required credentials and year of experience: 
-  * job type (full-time, part-time): part-time
-  * Location: 
+  * job type (full-time, part-time): full-time
+  * Location: in the office center
   * Salary, benefits and perks: 
 
 ## Task 6
