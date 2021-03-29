@@ -199,7 +199,7 @@ From the unmeplyment data for each tree types of workers and taking into account
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
-The expected number of available workers at the end of 2021 was 1 manager, 0 engineers and 1 operator and the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. So the mismatch  is 3 managers, 12 engineers and 6 operators. There is a shortage so the company will have to think about hiring new workers in order to grow and improve its situation.
+The expected number of available workers at the end of 2021 was 1 manager, 0 engineers and 1 operator and the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. So the mismatch  is 3 managers, 12 engineers and 6 operators. The company will have to think about hiring new workers in order to grow and improve its situation.
 
 ***
 
@@ -207,8 +207,29 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+**occuparion (SOC):
+**Industry (NAICS)
+**List of task and skills
+**required credentials and years of experience
+**Job type (full-time, part-time)
+**Location 
+**Salary, benefits and perks 
 ### Job posting for Engineers:
+**occuparion (SOC):
+**Industry (NAICS)
+**List of task and skills
+**required credentials and years of experience
+**Job type (full-time, part-time)
+**Location 
+**Salary, benefits and perks 
 ### Job posting for Operators:
+**occuparion (SOC):
+**Industry (NAICS)
+**List of task and skills
+**required credentials and years of experience
+**Job type (full-time, part-time)
+**Location 
+**Salary, benefits and perks 
 ***
 
 ## Task 6
