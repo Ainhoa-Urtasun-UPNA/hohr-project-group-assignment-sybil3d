@@ -208,20 +208,27 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 ***
 ### Job posting for Managers:
 **occuparion (SOC):
+
 **Industry (NAICS)
+
 **List of task and skills
+
 **required credentials and years of experience
+
 **Job type (full-time, part-time)
+
 **Location 
+
 **Salary, benefits and perks 
+
 ### Job posting for Engineers:
-**occuparion (SOC):
-**Industry (NAICS)
-**List of task and skills
-**required credentials and years of experience
-**Job type (full-time, part-time)
-**Location 
-**Salary, benefits and perks 
+ **occuparion (SOC):
+ **Industry (NAICS)
+ **List of task and skills
+ **required credentials and years of experience
+ **Job type (full-time, part-time)
+ **Location 
+ **Salary, benefits and perks 
 ### Job posting for Operators:
 **occuparion (SOC):
 **Industry (NAICS)
