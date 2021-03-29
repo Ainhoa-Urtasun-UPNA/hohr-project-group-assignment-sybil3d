@@ -210,28 +210,28 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * Occupation (SOC): Construction manager (11-9021.00) 
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills
-  * required credentials and year of experience: W
-  * job type (full-time, part-time)
+  * required credentials and year of experience: 
+  * job type (full-time, part-time): full-time
   * Location 
   * Salary, benefits and perks
  
 ### Job posting for Engineers:
  * Occupation (SOC): Materials Engineers (17-2131.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
-  * List of task and skills
-  * required credentials and year of experience 
-  * job type (full-time, part-time)
-  * Location 
-  * Salary, benefits and perks
+  * List of task and skills: 
+  * required credentials and year of experience: 
+  * job type (full-time, part-time): full-time
+  * Location: 
+  * Salary, benefits and perks: 
  
 ### Job posting for Operators:
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
-  * List of task and skills 
-  * required credentials and year of experience 
-  * job type (full-time, part-time)
-  * Location 
-  * Salary, benefits and perks
+  * List of task and skills: 
+  * required credentials and year of experience: 
+  * job type (full-time, part-time): part-time
+  * Location: 
+  * Salary, benefits and perks: 
 
 ## Task 6
 * Objective: Create a website for your project
