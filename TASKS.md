@@ -244,7 +244,7 @@ As material engineer you will primarily be responsible for designing and partici
   * Location: remote or offices center in Prague 
   * Salary, benefits and perks: 
  
- Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status.
+ Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
 ### Job posting for Operators:
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
