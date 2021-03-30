@@ -231,16 +231,12 @@ As material engineer you will primarily be responsible for designing and partici
    *  	Design and direct the testing or control of processing procedures. 
    *  	Monitor material performance and evaluate material deterioration. It is essential for this job as we are very concerned about the obsolescence of our products, we ensure a quality warrant for our clients. 
 
-**Tasks**
+* **Tasks**
    *  	You will use your expertise to develop and implement the applicable sourcing strategy.
    *  	You will have to consider the best materials to fit certain projects.
    *  	To do this, you must interface directly with machine shops, sheet metal fabrication shops, 3D printing suppliers, internal staff members and management, as well as customers. We offer a luxury service which consists on assessing and personalizing the product with the client’s demands. 
    *  	Additionally, you will take on special projects related to expanding the capabilities of our production process, making the needed suggestions to the managers to improve our core competencies. So you are required to evaluate mechanical design costs and find ways to reduce manufacturing costs while ensuring best-in-class product quality
-   *  	Provide mechanical design information for:
-     * -	2D dimensional drawings from 3D models
-     * -	2D dimensional drawings
-     * -	Illustrations for installation, user and maintenance manuals
-     * -	Photorealistic product renderings
+   *  	Provide mechanical design information for: 2D dimensional drawings from 3D models, 2D dimensional drawings, illustrations for installation, user and maintenance manuals and photorealistic product renderings
    *  	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
 
   * required credentials and year of experience: 
