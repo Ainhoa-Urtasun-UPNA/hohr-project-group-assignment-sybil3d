@@ -238,7 +238,7 @@ This position reports to a construction operator and you will be responsible for
      * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. 
      * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. 
    * A successful candidate will possess the following skills and attributes:
-     *Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+     * Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
      * Control operations of equipment or systems.
      * Supervise and perform equipment Maintenance determining when and what kind of maintenance is needed.
      * Take care of the operation Monitoring by watching gauges, dials, or other indicators to make sure that machines are working properly.
