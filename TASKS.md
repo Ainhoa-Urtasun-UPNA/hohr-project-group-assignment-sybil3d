@@ -228,10 +228,41 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
-  * required credentials and year of experience: 
+    * Job summary
+This position reports to a construction operator and you will be responsible for the safe operation of process equipment on the construction projects to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. You will lead operations of a team on a wide range of project and task related assignments. Primary responsibilities will also include the manage, maintenance and operational tasks, the maintenance of a high level of professionalism, the commitment to quality production, coordinating machine actions with other activities, the positioning or moving loads in response to hand or audio signals from crew members. This position will also assist with the construction and de-mobilization of projects and various sites. Overall, the successful candidate will be a key part of the engineering team and will be responsible for the correct realization of the production process inside the company. 
+
+  * Responsibilities
+     * Learn and follow safety regulations, 
+     *Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. 
+     *Start engines, move throttles, switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. 
+     *Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. 
+     *Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. 
+   * A successful candidate will possess the following skills and attributes:
+     *Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+     *Control operations of equipment or systems.
+     *Supervise and perform equipment Maintenance determining when and what kind of maintenance is needed.
+     *Take care of the operation Monitoring by watching gauges, dials, or other indicators to make sure that machines are working properly.
+     *Monitor yourself, other individuals and other workers to make improvements or take corrective action.
+     *Deep specialization in a given field of industry
+     *Examine/inspect field conditions and troubleshoot problems, correct inaccuracies, and implement cost saving measures.
+     *To perform this job successfully, an individual should be able to type and use keyboards accurately and have knowledge of Database software.
+
+
+  * required credentials and year of experience:
+     *Experience: Two or more years in the construction industry
+     *Some experience using PC and software applications, including Microsoft Word, Excel, and PowerPoint.
+     *Valid driver's license and good driving habits because based on assigned tasks, employee may be assigned a company vehicle requiring the applicable driver's license
+     *Strong commitment to safety and environmental policies.
+     *Team oriented, self-motivated and flexible to change.
+     *Establish residence in the work area and be on call.
+     *This position requires a good attitude and a willingness to work.
+     *	Must be able to communicate clearly and concisely.
+ 
   * job type (full-time, part-time): full-time
   * Location: in the office center
   * Salary, benefits and perks: 
+
+Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
 
 ## Task 6
 * Objective: Create a website for your project
