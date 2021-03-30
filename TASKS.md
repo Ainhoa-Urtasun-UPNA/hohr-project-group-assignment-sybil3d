@@ -210,7 +210,7 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * Occupation (SOC): Construction manager (11-9021.00) 
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills
-  * required credentials and year of experience: 
+  * required credentials and year of experience: We need a candidate who has a completed bachelor’s degree in Engineering, Construction Management, or comparable field. It is important that the candidate has more than 10 years of experience in the sector. In addition, it is highly recognized that the person has project Management experience from design phase through implementation and operation. Besides, the candidate must have to ability to speak foreign languages and have a minimum of a C1 level in French. 
   * job type (full-time, part-time): full-time
   * Location: remote or in the office centers.
   * Salary, benefits and perks: 
@@ -239,7 +239,7 @@ As material engineer you will primarily be responsible for designing and partici
    *  	Provide mechanical design information for: 2D dimensional drawings from 3D models, 2D dimensional drawings, illustrations for installation, user and maintenance manuals and photorealistic product renderings
    *  	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
 
-  * required credentials and year of experience: 
+  * required credentials and year of experience: We need a candidate that dispose a bachelor’s degree in Engineering Technology or other related engineering. This person must have experience using computerized Maintenance tools. Furthermore, we employ only highly skilled staff with extensive international experience (minimum previous experience of 10 years in the sector). In addition, the candidate has to demonstrate languages developed skills, especially in English and French. 
   * job type (full-time, part-time): full-time
   * Location: remote or offices center in Prague 
   * Salary, benefits and perks: 
