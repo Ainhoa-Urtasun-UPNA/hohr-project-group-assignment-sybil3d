@@ -219,10 +219,36 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
  * Occupation (SOC): Materials Engineers (17-2131.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
+  * We are a 3D printed home producer startup that is looking to add a passionate and self driven team member to expand our growing and fast-paced Engineering department. We develop houses and structures to enable people to live in an portable, ecologic and sustainable way. Our solutions are currently being used by more than 100 familiesbut this is just the starting point.
+As material engineer you will primarily be responsible for designing and participating in the production process of the final product. Material selection knowledge is needed for this job, specially the use of the press brake technology with the 3D printer. Also, familiarity with different types of pre and post processing programs is a must.
+
+* Skills
+•	Analyse product failure data and laboratory test results to determine causes of problems and developing solutions. 
+•	Coordination: Adjusting actions in relation to others' actions. In this job you will be required to coordinate different production processes with different materials. So coordination of processes and times in the best efficient way is required. 
+•	Conduct or supervise tests on raw materials or finished products to ensure their quality. 
+•	Active listening: Giving full attention to what other people are saying, taking time to understand the points being made and asking questions as appropriate. The successful exchange of information is essential to the development of this position, both with operators and with managers. 
+•	Monitoring: Monitoring/assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. Monitoring of the production process with the needed tools offered by the company. 
+•	Design and direct the testing or control of processing procedures. 
+•	Monitor material performance and evaluate material deterioration. It is essential for this job as we are very concerned about the obsolescence of our products, we ensure a quality warrant for our clients. 
+
+Tasks
+•	You will use your expertise to develop and implement the applicable sourcing strategy.
+•	You will have to consider the best materials to fit certain projects.
+•	To do this, you must interface directly with machine shops, sheet metal fabrication shops, 3D printing suppliers, internal staff members and management, as well as customers. We offer a luxury service which consists on assessing and personalizing the product with the client’s demands. 
+•	Additionally, you will take on special projects related to expanding the capabilities of our production process, making the needed suggestions to the managers to improve our core competencies. So you are required to evaluate mechanical design costs and find ways to reduce manufacturing costs while ensuring best-in-class product quality
+•	Provide mechanical design information for:
+-	2D dimensional drawings from 3D models
+-	2D dimensional drawings
+-	Illustrations for installation, user and maintenance manuals
+-	Photorealistic product renderings
+•	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
+
   * required credentials and year of experience: 
   * job type (full-time, part-time): full-time
   * Location: remote or offices center in Prague 
   * Salary, benefits and perks: 
+ 
+ Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status.
  
 ### Job posting for Operators:
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
@@ -238,7 +264,7 @@ This position reports to a construction operator and you will be responsible for
      * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. 
      * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. 
    * A successful candidate will possess the following skills and attributes:
-     * Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+     *Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
      * Control operations of equipment or systems.
      * Supervise and perform equipment Maintenance determining when and what kind of maintenance is needed.
      * Take care of the operation Monitoring by watching gauges, dials, or other indicators to make sure that machines are working properly.
@@ -259,7 +285,7 @@ This position reports to a construction operator and you will be responsible for
      *	Must be able to communicate clearly and concisely.
  
   * job type (full-time, part-time): full-time
-  * Location: in the office center
+  * Location: in the office center in Prague
   * Salary, benefits and perks: 
 
 Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
