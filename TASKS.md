@@ -223,25 +223,25 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 As material engineer you will primarily be responsible for designing and participating in the production process of the final product. Material selection knowledge is needed for this job, specially the use of the press brake technology with the 3D printer. Also, familiarity with different types of pre and post processing programs is a must.
 
 * Skills
-•	Analyse product failure data and laboratory test results to determine causes of problems and developing solutions. 
-•	Coordination: Adjusting actions in relation to others' actions. In this job you will be required to coordinate different production processes with different materials. So coordination of processes and times in the best efficient way is required. 
-•	Conduct or supervise tests on raw materials or finished products to ensure their quality. 
-•	Active listening: Giving full attention to what other people are saying, taking time to understand the points being made and asking questions as appropriate. The successful exchange of information is essential to the development of this position, both with operators and with managers. 
-•	Monitoring: Monitoring/assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. Monitoring of the production process with the needed tools offered by the company. 
-•	Design and direct the testing or control of processing procedures. 
-•	Monitor material performance and evaluate material deterioration. It is essential for this job as we are very concerned about the obsolescence of our products, we ensure a quality warrant for our clients. 
+* •	Analyse product failure data and laboratory test results to determine causes of problems and developing solutions. 
+* •	Coordination: Adjusting actions in relation to others' actions. In this job you will be required to coordinate different production processes with different materials. So coordination of processes and times in the best efficient way is required. 
+* •	Conduct or supervise tests on raw materials or finished products to ensure their quality. 
+* •	Active listening: Giving full attention to what other people are saying, taking time to understand the points being made and asking questions as appropriate. The successful exchange of information is essential to the development of this position, both with operators and with managers. 
+* •	Monitoring: Monitoring/assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. Monitoring of the production process with the needed tools offered by the company. 
+* •	Design and direct the testing or control of processing procedures. 
+* •	Monitor material performance and evaluate material deterioration. It is essential for this job as we are very concerned about the obsolescence of our products, we ensure a quality warrant for our clients. 
 
 Tasks
-•	You will use your expertise to develop and implement the applicable sourcing strategy.
-•	You will have to consider the best materials to fit certain projects.
-•	To do this, you must interface directly with machine shops, sheet metal fabrication shops, 3D printing suppliers, internal staff members and management, as well as customers. We offer a luxury service which consists on assessing and personalizing the product with the client’s demands. 
-•	Additionally, you will take on special projects related to expanding the capabilities of our production process, making the needed suggestions to the managers to improve our core competencies. So you are required to evaluate mechanical design costs and find ways to reduce manufacturing costs while ensuring best-in-class product quality
-•	Provide mechanical design information for:
--	2D dimensional drawings from 3D models
--	2D dimensional drawings
--	Illustrations for installation, user and maintenance manuals
--	Photorealistic product renderings
-•	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
+* •	You will use your expertise to develop and implement the applicable sourcing strategy.
+* •	You will have to consider the best materials to fit certain projects.
+* •	To do this, you must interface directly with machine shops, sheet metal fabrication shops, 3D printing suppliers, internal staff members and management, as well as customers. We offer a luxury service which consists on assessing and personalizing the product with the client’s demands. 
+* •	Additionally, you will take on special projects related to expanding the capabilities of our production process, making the needed suggestions to the managers to improve * our core competencies. So you are required to evaluate mechanical design costs and find ways to reduce manufacturing costs while ensuring best-in-class product quality
+* •	Provide mechanical design information for:
+   * -	2D dimensional drawings from 3D models
+   * -	2D dimensional drawings
+   * -	Illustrations for installation, user and maintenance manuals
+   * -	Photorealistic product renderings
+* •	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
 
   * required credentials and year of experience: 
   * job type (full-time, part-time): full-time
