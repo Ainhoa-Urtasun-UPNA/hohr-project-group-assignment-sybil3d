@@ -210,10 +210,32 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * Occupation (SOC): Construction manager (11-9021.00) 
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills
+  
+  Sybil is seeking a seasoned professional to join our manager construction team. We are a company that is taking off in this sector. Reinventing the world of construction through 3D printers. For this we are looking for managers committed to our ideals and with experience in the construction sector.  The candidate must be used to plan and coordinate construction project activities to meet deadlines, prepare and submit budget estimates, progress report or cost tracking reports. He must be prepared to interpret and explain plans and contract terms to representatives or the owner or developer including administrative staff, workers, or client. The manager will have other responsibilities such as direct and supervise construction or related workers and prepare contracts or negotiate revision to contractual agreement with architects, consultants, clients, supplier, or subcontractors. But specially, the candidate must lead and motivate the whole team to ensure that projects are successful. We are looking for a person who is used to managing a team but who can assign tasks according to the skills of each employee, who is responsive, patient and a good listener.
+  * **Tasks**
+     * Plan, schedule, or coordinate construction project activities to meet deadlines
+     * Prepare and submit budget estimates, progress reports, or cost tracking reports 
+     * Interpret and explain plans and contract terms to representatives or the owner or developer, including administrative staff, workers, or clients 
+     * Direct and supervise construction or related workers 
+     * Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors 
+     * Remodel projects
+     * Ensure the design are fit for purpose, cost effective and legal appropriate.
+     * Coordinate and manage a big team.
+
+ *  **Skills**
+     *	Coordination: Adjusting actions in relation to others' actions 
+     *	Management of Personnel Resources: Motivating, developing, and directing people as they work, identifying the best people for the job 
+     *	Active listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not   interrupting at inappropriate times 
+     *	Monitoring: Monitoring/assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action 
+     *	Speaking: talking to others to convey information effectively 
+
+
   * required credentials and year of experience: We need a candidate who has a completed bachelor’s degree in Engineering, Construction Management, or comparable field. It is important that the candidate has more than 10 years of experience in the sector. In addition, it is highly recognized that the person has project Management experience from design phase through implementation and operation. Besides, the candidate must have to ability to speak foreign languages and have a minimum of a C1 level in French. 
   * job type (full-time, part-time): full-time
   * Location: remote or in the office centers.
   * Salary, benefits and perks: 
+  
+  Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
 ### Job posting for Engineers:
  * Occupation (SOC): Materials Engineers (17-2131.00)
@@ -240,9 +262,9 @@ As material engineer you will primarily be responsible for designing and partici
    *  	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
 
   * required credentials and year of experience: We need a candidate that dispose a bachelor’s degree in Engineering Technology or other related engineering. This person must have experience using computerized Maintenance tools. Furthermore, we employ only highly skilled staff with extensive international experience (minimum previous experience of 10 years in the sector). In addition, the candidate has to demonstrate languages developed skills, especially in English and French. 
-  * job type (full-time, part-time): full-time
-  * Location: remote or offices center in Prague 
-  * Salary, benefits and perks: 
+* job type (full-time, part-time): full-time
+* Location: remote or offices center in Prague 
+* Salary, benefits and perks: 
  
  Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
