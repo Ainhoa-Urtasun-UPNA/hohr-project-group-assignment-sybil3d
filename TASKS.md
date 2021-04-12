@@ -195,11 +195,11 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 * X = ([[15,1,0,0],[17,1,0,0],[14,1,0,0],[6,0,1,0],[6,0,1,0],[5,0,1,0],[23,0,0,1],[27,0,0,1],[25,0,0,1]])
 * Y = ([[4],[6],[5],[13],[12],[13],[7],[7],[9]])
 
-From the unmeplyment data for each tree types of workers and taking into account the need for workers on average and per firm, if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators , the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. These predictions are the result of the calculations obtained from the matrix operations. The last matrix obtained was [4'3333,12'458,7'0417], so after the aproximations the predictions obtained are the metioned previously.
+From the unemployment data for each tree types of workers and taking into account the need for workers on average and per firm, if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators , the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. These predictions are the result of the calculations obtained from the matrix operations. The last matrix obtained was [4'3333,12'458,7'0417], so after the aproximations the predictions obtained are the metioned previously.
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
-The expected number of available workers at the end of 2021 was 1 manager, 0 engineers and 1 operator and the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. So the mismatch  is 3 managers, 12 engineers and 6 operators. The company will have to think about hiring new workers in order to grow and improve its situation.
+The expected number of available workers at the end of 2021 was 1 manager, 0 engineers and 1 operator and the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. So the mismatch (shortage)  is 3 managers, 12 engineers and 6 operators. The company will have to think about hiring new workers in order to grow and improve its situation.
 
 ***
 
@@ -207,6 +207,7 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers: 
+  * job openings: 3. The company will hire 3 managers because the shortage is 3 and the automation risk for this occupation job is only 7%. This means that the probability of automation of the job is very low. 
   * Occupation (SOC): Construction manager (11-9021.00) 
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills
@@ -233,11 +234,13 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * required credentials and year of experience: We need a candidate who has a completed bachelor’s degree in Engineering, Construction Management, or comparable field. It is important that the candidate has more than 10 years of experience in the sector. In addition, it is highly recognized that the person has project Management experience from design phase through implementation and operation. Besides, the candidate must have to ability to speak foreign languages and have a minimum of a C1 level in French. 
   * job type (full-time, part-time): full-time
   * Location: remote or in the office centers.
-  * Salary, benefits and perks: 
+  * Salary, benefits and perks:  CZK 833,741.22.
+                                
   
   Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
 ### Job posting for Engineers:
+ * job openings: 12. The shortage for material engineers is 12 and the automation risk is 2%. As the automation risk is very low is very unlikey that the job desappears.
  * Occupation (SOC): Materials Engineers (17-2131.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
@@ -264,11 +267,12 @@ As material engineer you will primarily be responsible for designing and partici
   * required credentials and year of experience: We need a candidate that dispose a bachelor’s degree in Engineering Technology or other related engineering. This person must have experience using computerized Maintenance tools. Furthermore, we employ only highly skilled staff with extensive international experience (minimum previous experience of 10 years in the sector). In addition, the candidate has to demonstrate languages developed skills, especially in English and French. 
 * job type (full-time, part-time): full-time
 * Location: remote or offices center in Prague 
-* Salary, benefits and perks: 
+* Salary, benefits and perks: CZK 45.586 
  
  Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
 ### Job posting for Operators:
+ * Job openings: The shortage is to hire 6 operating engineers but the automation risk is 95%. So we decide to offer only 1 job for this occupation because the company is not yet prepared to be completaly automated.
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
@@ -304,7 +308,7 @@ This position reports to a construction operator and you will be responsible for
  
   * job type (full-time, part-time): full-time
   * Location: in the office center in Prague
-  * Salary, benefits and perks: 
+  * Salary, benefits and perks: C
 
 Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
 
