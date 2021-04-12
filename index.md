@@ -19,8 +19,8 @@ We are a small company founded in 2020 whose main objective is to bring a simple
   
 Here you can check our [main models and prices](https://hsmfilms.fandom.com/es/wiki/Wildcats). 
 
-[Link](https://mightybuildings.com/) and ![Image](src![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
-)
+![Image](src![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
+
 https://mightybuildings.com/
 
 
