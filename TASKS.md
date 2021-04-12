@@ -234,7 +234,7 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   * required credentials and year of experience: We need a candidate who has a completed bachelor’s degree in Engineering, Construction Management, or comparable field. It is important that the candidate has more than 10 years of experience in the sector. In addition, it is highly recognized that the person has project Management experience from design phase through implementation and operation. Besides, the candidate must have to ability to speak foreign languages and have a minimum of a C1 level in French. 
   * job type (full-time, part-time): full-time
   * Location: remote or in the office centers.
-  * Salary, benefits and perks: $38,139.38. CZK 833,741.22.
+  * Salary, benefits and perks: $38,139.38. CZK 833.741,22.
                                 
   
   Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
@@ -267,7 +267,7 @@ As material engineer you will primarily be responsible for designing and partici
   * required credentials and year of experience: We need a candidate that dispose a bachelor’s degree in Engineering Technology or other related engineering. This person must have experience using computerized Maintenance tools. Furthermore, we employ only highly skilled staff with extensive international experience (minimum previous experience of 10 years in the sector). In addition, the candidate has to demonstrate languages developed skills, especially in English and French. 
 * job type (full-time, part-time): full-time
 * Location: remote or offices center in Prague 
-* Salary, benefits and perks: $25.000 CZK 546.816
+* Salary, benefits and perks: $25,000 CZK 546.816
  
  Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
