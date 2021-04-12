@@ -1,9 +1,18 @@
 ## SYBIL 3D
 
 * Who we are?
-We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living for society. 
 
-Here you can check our [main models and prices](https://www.youtube.com/watch?v=QI10t9B7ahA) 
+We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see life, that is the reason why we have developed houses and structures to enable people to live in an portable, ecologic and sustainable approach.
+
+* Meet the team 
+  Victor Arcos: Chief Financial Officer (CFO)
+  Pablo Garde: Chief Technology Officer (CTO)
+  Laura Gorostiaga: Chief Executive Officer (CEO)
+  Silvia Moreno: Chief Marketing Officer (CMO)
+  
+  * We are currently looking for new people to enlarge and enrich our multicultural team. Don't hesitate and [send us an email](https://www.google.com/search?q=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&bih=736&biw=1517&hl=es&ei=fFR0YNDJDsHFgwfDmYygDQ&oq=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANQ5hlY9iJgkSRoAHADeACAAdMEiAHAEJIBCzAuMy4xLjEuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjQ95Lx8PjvAhXB4uAKHcMMA9QQ4dUDCA0&uact=5).
+  
+Here you can check our [main models and prices](https://www.youtube.com/watch?v=QI10t9B7ahA). 
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
