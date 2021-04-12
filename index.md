@@ -1,10 +1,12 @@
 ## SYBIL 3D
 
+![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
+
 * Who we are?
 
 We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see life, that is the reason why we have developed houses and structures to enable people to live in an portable, ecologic and sustainable approach.
 
-* Meet the team 
+* Meet the team: 
 
   Victor Arcos: Chief Financial Officer (CFO)
   
@@ -19,9 +21,9 @@ We are a small company founded in 2020 whose main objective is to bring a simple
   
 Here you can check our [main models and prices](https://hsmfilms.fandom.com/es/wiki/Wildcats). 
 
-![Image](src![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
 
-https://mightybuildings.com/
+![image](https://user-images.githubusercontent.com/78743391/114411194-42a93e00-9bac-11eb-8b29-c66b3f6595c0.png)
+
 
 
 
