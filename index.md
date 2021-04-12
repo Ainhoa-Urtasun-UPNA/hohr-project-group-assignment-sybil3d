@@ -8,8 +8,9 @@ We are a small company founded in 2020 whose main objective is to bring a simple
 
 * Our activities. Led by our philosophy we clasify the activities we develop in 2 main groups:
 
-  - **Engineering activities**
-  - **Operation activities** 
+  - **Engineering activities**: Research of the product, prototyping, interior designing, exterior designing and product development.  ![image](https://user-images.githubusercontent.com/78743391/114413042-ee9f5900-9bad-11eb-8c91-ee1b9eb5f81f.png)
+  - **Operation activities**: Marketing, after-sales service, customer service and quality control. ![image](https://user-images.githubusercontent.com/78743391/114413274-20b0bb00-9bae-11eb-83ef-b22829bec095.png)
+
 
 
 
