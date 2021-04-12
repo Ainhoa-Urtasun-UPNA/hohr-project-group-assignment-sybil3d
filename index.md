@@ -6,6 +6,14 @@
 
 We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see life, that is the reason why we have developed houses and structures to enable people to live in an portable, ecologic and sustainable approach.
 
+* Our activities. Led by our philosophy we clasify the activities we develop in 2 main groups:
+
+  - **Engineering activities**
+  - **Operation activities** 
+
+
+
+
 * Meet the team: 
 
   Victor Arcos: Chief Financial Officer (CFO)
