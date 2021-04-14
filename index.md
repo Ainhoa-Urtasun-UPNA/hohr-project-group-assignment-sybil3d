@@ -2,19 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
 
-* Who we are?
-
-We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see life, that is the reason why we have developed houses and structures to enable people to live in an portable, ecologic and sustainable approach.
-
-* Our activities. Led by our philosophy we clasify the activities we develop in 2 main groups:
-
-  - **Engineering activities**: Research of the product, prototyping, interior designing, exterior designing and product development.  ![image](https://user-images.githubusercontent.com/78743391/114413042-ee9f5900-9bad-11eb-8c91-ee1b9eb5f81f.png)
-  - **Operation activities**: Marketing, after-sales service, customer service and quality control. ![image](https://user-images.githubusercontent.com/78743391/114413274-20b0bb00-9bae-11eb-83ef-b22829bec095.png)
-
-
-
-
-
 * Meet the team: 
 
   Victor Arcos: Chief Financial Officer (CFO)
@@ -24,6 +11,25 @@ We are a small company founded in 2020 whose main objective is to bring a simple
   Laura Gorostiaga: Chief Executive Officer (CEO)
   
   Silvia Moreno: Chief Marketing Officer (CMO)
+
+* Who we are?
+
+We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see life, that is the reason why we have developed houses and structures to enable people to live in an portable, ecologic and sustainable approach.
+
+* Our activities.  NAICS - 321991. "Manufactured Home (Mobile Home) Manufacturing"
+
+ Led by our philosophy we clasify the activities we develop in 2 main groups:
+
+  - **Engineering activities**: Research of the product, prototyping, interior designing, exterior designing and product development.  
+  - **Operation activities**: Marketing, after-sales service, customer service and quality control.
+
+
+
+
+
+
+
+
   
   
   We are currently looking for new people to enlarge and enrich our multicultural team. Don't hesitate and [send us an email](https://www.google.com/search?q=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&bih=736&biw=1517&hl=es&ei=fFR0YNDJDsHFgwfDmYygDQ&oq=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANQ5hlY9iJgkSRoAHADeACAAdMEiAHAEJIBCzAuMy4xLjEuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjQ95Lx8PjvAhXB4uAKHcMMA9QQ4dUDCA0&uact=5). We are waiting for you! 
