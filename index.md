@@ -18,17 +18,18 @@ We are a small company founded in 2020 whose main objective is to bring a simple
 
 * Our activities.  NAICS - 321991. "Manufactured Home (Mobile Home) Manufacturing"
 
- Led by our philosophy we clasify the activities we develop in 2 main groups:
+    Led by our philosophy we clasify the activities we develop in 2 main groups:
+    
+    1. Primary activities:
+   
+   - **Engineering activities**: Research of the product, prototyping, interior designing, exterior designing and product development.  
+    - **Operation activities**: Marketing, after-sales service, customer service and quality control.
+    
+    2. Support activities: Transport and distribution (logistics), Waste Management, Human Resource Management, Technology Development, Statistical and Market Analysis and procurements.
+    
+   
 
-  - **Engineering activities**: Research of the product, prototyping, interior designing, exterior designing and product development.  
-  - **Operation activities**: Marketing, after-sales service, customer service and quality control.
-
-
-
-
-
-
-
+   
 
   
   
