@@ -44,6 +44,20 @@ Here you can check our [main models and prices](https://hsmfilms.fandom.com/es/w
 ![image](https://user-images.githubusercontent.com/78743391/114411194-42a93e00-9bac-11eb-8b29-c66b3f6595c0.png)
 
 
+## JOB POSTINGS
+
+* Job posting for managers
+
+![Diapositiva1](https://user-images.githubusercontent.com/78743391/114754830-4cbc6f80-9d59-11eb-9660-dd86b3e8ca08.JPG)
+
+* Job posting for engineers
+
+![Diapositiva2](https://user-images.githubusercontent.com/78743391/114754868-57770480-9d59-11eb-9a8c-90d5ca2611df.JPG)
+
+
+* Job posting for operators
+
+![Diapositiva3](https://user-images.githubusercontent.com/78743391/114754929-63fb5d00-9d59-11eb-9715-c0d86bc3417d.JPG)
 
 
 
