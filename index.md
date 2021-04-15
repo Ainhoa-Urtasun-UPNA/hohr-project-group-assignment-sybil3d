@@ -38,7 +38,7 @@ We are a small company founded in 2020 whose main objective is to bring a simple
   
   We are currently looking for new people to enlarge and enrich our multicultural team. Don't hesitate and [send us an email](https://www.google.com/search?q=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&bih=736&biw=1517&hl=es&ei=fFR0YNDJDsHFgwfDmYygDQ&oq=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANQ5hlY9iJgkSRoAHADeACAAdMEiAHAEJIBCzAuMy4xLjEuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjQ95Lx8PjvAhXB4uAKHcMMA9QQ4dUDCA0&uact=5). We are waiting for you! 
   
-Here you can check our [main models and prices](https://hsmfilms.fandom.com/es/wiki/Wildcats). 
+Here you can check our [main models and prices](https://ayushop.es/products/bolsa-que-ayuso-eres-hoy). 
 
 
 ![image](https://user-images.githubusercontent.com/78743391/114411194-42a93e00-9bac-11eb-8b29-c66b3f6595c0.png)
