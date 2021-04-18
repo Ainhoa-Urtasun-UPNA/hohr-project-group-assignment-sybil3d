@@ -46,6 +46,7 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 
 ## JOB POSTINGS
 
+
 **MANAGERS**
 * Job openings: 3
 * Predicted shortage: 3
@@ -53,12 +54,14 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 
 ![Diapositiva1](https://user-images.githubusercontent.com/78743391/114754830-4cbc6f80-9d59-11eb-9660-dd86b3e8ca08.JPG)
 
+
 **ENGINEERS**
 * Job openings: 12
 * Predicted shortage: 12
 * Automation risk: 2%
 
 ![Diapositiva2](https://user-images.githubusercontent.com/78743391/114754868-57770480-9d59-11eb-9a8c-90d5ca2611df.JPG)
+
 
 
 **OPERATORS**
