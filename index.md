@@ -46,16 +46,25 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 
 ## JOB POSTINGS
 
-* Job opening for managers: 3
+**MANAGERS**
+* Job openings: 3
+* Predicted shortage: 3
+* Automation risk: 7%
 
 ![Diapositiva1](https://user-images.githubusercontent.com/78743391/114754830-4cbc6f80-9d59-11eb-9660-dd86b3e8ca08.JPG)
 
-* Job opening for engineers: 12
+**ENGINEERS**
+* Job openings: 12
+* Predicted shortage: 12
+* Automation risk: 2%
 
 ![Diapositiva2](https://user-images.githubusercontent.com/78743391/114754868-57770480-9d59-11eb-9a8c-90d5ca2611df.JPG)
 
 
-* Job opening for operators: 1
+**OPERATORS**
+* Job openings: 1
+* Predicted shortage: 6
+* Automation risk: 95%
 
 ![Diapositiva3](https://user-images.githubusercontent.com/78743391/114754929-63fb5d00-9d59-11eb-9715-c0d86bc3417d.JPG)
 
