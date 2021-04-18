@@ -50,6 +50,10 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
   **Job openings: 3**
   **Predicted shortage: 3**
   **Automation risk: 7%**
+  * Job opening: 3
+  * Predicted shortage: 3
+  * Automation risk: 7%
+  
 
 
 
