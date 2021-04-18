@@ -48,8 +48,8 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 
 ![Diapositiva1](https://user-images.githubusercontent.com/78743391/114754830-4cbc6f80-9d59-11eb-9660-dd86b3e8ca08.JPG)
 **Job openings: 3**
-* Predicted shortage: 3
-* Automation risk: 7%
+**Predicted shortage: 3
+* Automation risk: 7%**
 
 
 
@@ -60,8 +60,8 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 
 ![Diapositiva2](https://user-images.githubusercontent.com/78743391/114754868-57770480-9d59-11eb-9a8c-90d5ca2611df.JPG)
 **Job openings: 12**
-* Predicted shortage: 12
-* Automation risk: 2%
+**Predicted shortage: 12
+* Automation risk: 2%**
 
 
 
@@ -72,8 +72,8 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 
 ![Diapositiva3](https://user-images.githubusercontent.com/78743391/114754929-63fb5d00-9d59-11eb-9715-c0d86bc3417d.JPG)
 **Job openings: 1**
-* Predicted shortage: 6
-* Automation risk: 95%
+**Predicted shortage: 6
+* Automation risk: 95%**
 
 
 
