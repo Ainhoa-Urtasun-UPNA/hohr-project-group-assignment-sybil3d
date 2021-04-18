@@ -47,9 +47,9 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 ## JOB POSTINGS
 
 ![Diapositiva1](https://user-images.githubusercontent.com/78743391/114754830-4cbc6f80-9d59-11eb-9660-dd86b3e8ca08.JPG)
-**Job openings: 3**
-**Predicted shortage: 3**
-**Automation risk: 7%**
+  **Job openings: 3**
+  **Predicted shortage: 3**
+  **Automation risk: 7%**
 
 
 
