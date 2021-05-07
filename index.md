@@ -1,5 +1,6 @@
 ## SYBIL 3D
-![image](/assets/SYBIL3D-2.png.jpg)
+
+![image]https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/blob/40a2d5c00f0120791b0c72d9c97ba18f3387fad1/SYBIL3D-2.png
 ![image](https://user-images.githubusercontent.com/78743391/114409830-40a2d5c00f0120791b0c72d9c97ba18f3387fad1/SYBIL3D-2.png
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
