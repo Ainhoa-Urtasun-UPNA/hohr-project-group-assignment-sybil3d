@@ -1,5 +1,4 @@
 ## SYBIL 3D
-![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
 
