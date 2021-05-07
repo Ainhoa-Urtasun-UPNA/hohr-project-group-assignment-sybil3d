@@ -2,7 +2,8 @@
 
 ![We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see lif.pdf](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/files/6443858/We.are.a.small.company.founded.in.2020.whose.main.objective.is.to.bring.a.simple.efficient.and.cheap.way.of.living.Our.technology.is.based.on.3D.and.innovative.production.methods.which.align.with.the.way.we.see.lif.pdf)
 
-![Captura de pantalla 2021-05-07 a las 21 22 08](https://user-images.githubusercontent.com/78742435/117498666-64fb6500-af7a-11eb-8f30-c66223899652.png)
+[Diseño sin título-2.pdf](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/files/6443889/Diseno.sin.titulo-2.pdf)
+
 
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-40a2d5c00f0120791b0c72d9c97ba18f3387fad1/SYBIL3D-2.png
