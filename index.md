@@ -1,5 +1,5 @@
 ## SYBIL 3D
-![Una imagen de GitBook](/assets/image.jpg)
+![SYBIL3D-2.png](/assets/image.jpg)
 ![image](https://user-images.githubusercontent.com/78743391/114409830-40a2d5c00f0120791b0c72d9c97ba18f3387fad1/SYBIL3D-2.png
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
