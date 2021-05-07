@@ -1,9 +1,9 @@
 ![Diseño sin título](https://user-images.githubusercontent.com/78742435/117493041-bacc0f00-af72-11eb-868a-33cae959aa8b.jpg)
 
-![Captura de pantalla 2021-05-07 a las 21 19 52](https://user-images.githubusercontent.com/78742435/117498375-02a26480-af7a-11eb-88d6-a830396f8e64.png)
+[We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see lif.pdf](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/files/6443858/We.are.a.small.company.founded.in.2020.whose.main.objective.is.to.bring.a.simple.efficient.and.cheap.way.of.living.Our.technology.is.based.on.3D.and.innovative.production.methods.which.align.with.the.way.we.see.lif.pdf)
 
-![We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living  Our technology is based on 3D and innovative production methods which align with the way we see lif](https://user-images.githubusercontent.com/78742435/117498224-cec73f00-af79-11eb-8aab-dad452a42ac8.jpg)!
-![image](https://user-images.githubusercontent.com/40a2d5c00f0120791b0c72d9c97ba18f3387fad1.png)
+![Captura de pantalla 2021-05-07 a las 21 22 08](https://user-images.githubusercontent.com/78742435/117498666-64fb6500-af7a-11eb-8f30-c66223899652.png)
+
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-40a2d5c00f0120791b0c72d9c97ba18f3387fad1/SYBIL3D-2.png
 
