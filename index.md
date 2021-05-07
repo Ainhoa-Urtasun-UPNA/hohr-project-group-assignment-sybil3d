@@ -4,7 +4,7 @@
 
 ![Diseño sin título-2.pdf](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/files/6443889/Diseno.sin.titulo-2.pdf)
 
-
+![Captura de pantalla 2021-05-07 a las 21 39 09](https://user-images.githubusercontent.com/78742435/117500291-b3116800-af7c-11eb-8a01-acfc8176e5a3.png)
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-40a2d5c00f0120791b0c72d9c97ba18f3387fad1/SYBIL3D-2.png
 
