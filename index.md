@@ -5,8 +5,8 @@
 ![Diseño sin título-2.pdf](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/files/6443889/Diseno.sin.titulo-2.pdf)
 
 ![NAICS Search 321991  Manufactured Home (Mobile Home) Manufacturing](https://user-images.githubusercontent.com/78742435/117500563-18fdef80-af7d-11eb-8631-78d21064355a.jpg)
-![2](https://user-images.githubusercontent.com/78742435/117505550-806b6d80-af84-11eb-8eef-e1c27511835d.jpg)
-![3](https://user-images.githubusercontent.com/78742435/117504569-f242b780-af82-11eb-8aff-c50d11230554.jpg)
+![2](https://user-images.githubusercontent.com/78742435/117505824-f53ea780-af84-11eb-9d8d-15ea30780fb7.jpg)
+![3](https://user-images.githubusercontent.com/78742435/117505836-f96ac500-af84-11eb-8d5f-428fbd0aded6.jpg)
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
 
