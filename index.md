@@ -1,4 +1,6 @@
 ## SYBIL 3D
+![Diseño sin título](https://user-images.githubusercontent.com/78742435/117493041-bacc0f00-af72-11eb-868a-33cae959aa8b.jpg)
+
 
 ![image](https://user-images.githubusercontent.com/40a2d5c00f0120791b0c72d9c97ba18f3387fad1.png)
 
