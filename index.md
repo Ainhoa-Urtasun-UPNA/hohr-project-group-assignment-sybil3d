@@ -11,31 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
 
-* Meet the team: 
 
-  Victor Arcos: Chief Financial Officer (CFO)
-  
-  Pablo Garde: Chief Technology Officer (CTO)
-  
-  Laura Gorostiaga: Chief Executive Officer (CEO)
-  
-  Silvia Moreno: Chief Marketing Officer (CMO)
-
-* Who we are?
-
-We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see life, that is the reason why we have developed houses and structures to enable people to live in an portable, ecologic and sustainable approach.
-
-
-* Our activities.  NAICS - 321991. "Manufactured Home (Mobile Home) Manufacturing"
-
-    Led by our philosophy we clasify the activities we develop in 2 main groups:
-    
-    1. Primary activities:
-   
-   - **Engineering activities**: Research of the product, prototyping, interior designing, exterior designing and product development.  
-    - **Operation activities**: Marketing, after-sales service, customer service and quality control.
-    
-    2. Support activities: Transport and distribution (logistics), Waste Management, Human Resource Management, Technology Development, Statistical and Market Analysis and procurements.
     
    
 
@@ -85,38 +61,3 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
   * Automation risk: 95%
 
 
-You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-sybil3d/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
