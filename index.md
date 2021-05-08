@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/78742435/117532769-86476a00-afe9-11eb-808f-5da5698bc82a.jpg)
 
-![Captura de pantalla 2021-05-07 a las 21 22 08](https://user-images.githubusercontent.com/78742435/117532878-fe159480-afe9-11eb-82a8-1388acc084a7.png)
+![Diseño sin título-2](https://user-images.githubusercontent.com/78742435/117532972-55b40000-afea-11eb-9191-d49ddc67cafc.jpg)
 
 ![NAICS Search 321991  Manufactured Home (Mobile Home) Manufacturing](https://user-images.githubusercontent.com/78742435/117500563-18fdef80-af7d-11eb-8631-78d21064355a.jpg)
 ![2](https://user-images.githubusercontent.com/78742435/117505824-f53ea780-af84-11eb-9d8d-15ea30780fb7.jpg)
