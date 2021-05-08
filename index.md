@@ -25,7 +25,6 @@
 
 We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living. Our technology is based on 3D and innovative production methods which align with the way we see life, that is the reason why we have developed houses and structures to enable people to live in an portable, ecologic and sustainable approach.
 
-![MODULES](https://user-images.githubusercontent.com/78743391/114751856-f863c080-9d55-11eb-8c90-7efd6e683326.jpg)
 
 * Our activities.  NAICS - 321991. "Manufactured Home (Mobile Home) Manufacturing"
 
