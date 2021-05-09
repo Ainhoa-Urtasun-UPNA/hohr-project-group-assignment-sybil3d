@@ -7,14 +7,14 @@
 ![NAICS Search 321991  Manufactured Home (Mobile Home) Manufacturing](https://user-images.githubusercontent.com/78742435/117500563-18fdef80-af7d-11eb-8631-78d21064355a.jpg)
 ![2](https://user-images.githubusercontent.com/78742435/117505824-f53ea780-af84-11eb-9d8d-15ea30780fb7.jpg)
 ![3](https://user-images.githubusercontent.com/78742435/117506336-b9f0a880-af85-11eb-9523-6be84fd18a7c.jpg)
+![12](https://user-images.githubusercontent.com/78742435/117569778-a3526a80-b0c7-11eb-8edb-233f13722b42.jpg)
 
 
 ![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
 
-
+![4](https://user-images.githubusercontent.com/78742435/117569765-9170c780-b0c7-11eb-9a9a-0fe9a309bb08.jpg)
 ![5](https://user-images.githubusercontent.com/78742435/117569468-1ce95900-b0c6-11eb-8af3-c3780ae615cd.jpg)
 ![6](https://user-images.githubusercontent.com/78742435/117569464-1955d200-b0c6-11eb-8860-70081cd47b01.jpg)
-![7](https://user-images.githubusercontent.com/78742435/117569463-16f37800-b0c6-11eb-9b24-4f5fe76229cc.jpg)
 
 
 ![8](https://user-images.githubusercontent.com/78742435/117569462-135ff100-b0c6-11eb-8880-58a1577d5c66.jpg)
@@ -26,10 +26,11 @@
 Here you can check our [main models and prices](https://ayushop.es/products/bolsa-que-ayuso-eres-hoy). 
 
 
+
 ![image](https://user-images.githubusercontent.com/78743391/114411194-42a93e00-9bac-11eb-8b29-c66b3f6595c0.png)
 
-
-## JOB POSTINGS
+![7](https://user-images.githubusercontent.com/78742435/117569840-d09f1880-b0c7-11eb-9005-4227f7714dbb.jpg)
+![11](https://user-images.githubusercontent.com/78742435/117569792-b402e080-b0c7-11eb-8d00-dd4428b4b9e6.jpg)
 
 ![Diapositiva1](https://user-images.githubusercontent.com/78743391/114754830-4cbc6f80-9d59-11eb-9660-dd86b3e8ca08.JPG)
   * Job opening: 3
