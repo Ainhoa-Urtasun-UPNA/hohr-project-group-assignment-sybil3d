@@ -49,7 +49,7 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 ### Managers
 * ONET-SOC code and title: Construction manager (11-9021.00)
 * 5 most important tasks they carry out (provide the importance score, in Details):
-  * Plan, schedule, or coordinate construction project activities to meet deadlines (score:94).
+  * Plan, schedule, or coordinate construction project activities to meet deadlines (score:**94**).
   * Prepare and submit budget estimates, progress reports, or cost tracking reports (score:**91**). 
   * Interpret and explain plans and contract terms to representatives or the owner or developer, including administrative staff, workers, or clients (score:**90**)
   * Direct and supervise construction or related workers (score:**84**)
@@ -87,22 +87,22 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 ### Engineers
 * ONET-SOC code and title: Materials Engineers (17-2131.00)
 * 5 most important tasks they carry out (provide the importance score, in Details):
-  * Analyze product failure data and laboratory test results to determine causes of problems and develop solutions. See more occupations related to this task. (Score 83)
-  * Design and direct the testing or control of processing procedures. See more occupations related to this task. (Score 80)
-  * Monitor material performance and evaluate material deterioration. See more occupations related to this task. (Score 79)
-  * Conduct or supervise tests on raw materials or finished products to ensure their quality. See more occupations related to this task. (Score 78)
-  * Evaluate technical specifications and economic factors relating to process or product design objectives. (Score 78)
+  * Analyze product failure data and laboratory test results to determine causes of problems and develop solutions. See more occupations related to this task. (Score: 83)
+  * Design and direct the testing or control of processing procedures. See more occupations related to this task. (Score: 80)
+  * Monitor material performance and evaluate material deterioration. See more occupations related to this task. (Score: 79)
+  * Conduct or supervise tests on raw materials or finished products to ensure their quality. See more occupations related to this task. (Score: 78)
+  * Evaluate technical specifications and economic factors relating to process or product design objectives. (Score: 78)
   
 * Is this job routine? Your judgment (0-10): 6. The engineer has a routine job having to learn the basic rules of operations machines and make the necessary calculations. However, he has to be prepared for future unforeseen events, to work on the different constructions, to plan the work according to the terrain and the available materials and to coordinate the multiple activities.
 
 * Is this job cognitive? Your judgment (0-10): 8. The engineer has a cognitive rather than a physical role. Since their work involves the design and construction of the product and the study of the techniques to carry it out.Therefore, it requires capacities of attention, perception, creativity, and information processing. 
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-  * Active Listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (Score 75)
-  * Complex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. (Score 75)
-  * Reading Comprehension: Understanding written sentences and paragraphs in work related documents.
-  * Science: Using scientific rules and methods to solve problems. (Score 75)
-  * Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. (Score 72)
+  * Active Listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (Score: 75)
+  * Complex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. (Score: 75)
+  * Reading Comprehension: Understanding written sentences and paragraphs in work related documents. (Score 75)
+  * Science: Using scientific rules and methods to solve problems. (Score: 75)
+  * Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. (Score: 72)
   
 * 5 technology skills:
   * Analytical or scientific software
@@ -130,24 +130,24 @@ This U.S. industry comprises establishments primarily engaged in making manufact
 
 ### Operators
 
-* ONET-SOC code and title:Operating engineers and other construction equipment operators. **CODE:47-2073.00**
+* ONET-SOC code and title:Operating engineers and other construction equipment operators. (47-2073.00)
 *  We have considered this specific role as an operator although the name can make us think that we are looking at an engineer. At first we thought about clasifying it as an engineer, but once we have analyzed the tasks, education and skills demanded for this position we have realized that this role is the one of an operator. In fact, this is the exact operator that we needed because our machinery is high-tech as we have implemented the 3D Industry in a complex sector. So a normal operator wouldn't be as prepared as we need to use and control this specific machinery and one with a higher education will be more useful and efficient. In fact, our operator doesn't need to have a degree but we would need some diplomas in both operation of 3D printers and safety regulation. 
  * 5 most important tasks they carry out (provide the importance score, in Details):
-   * They learn and follow safety regulations, The importance score is 97
-   * They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. The importance score is 92
-   * They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. The importance score is 90.
-   * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. The importance score is 88.
-   * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. The importance score is 87.
+   * They learn and follow safety regulations. (Score: 97)
+   * They take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. (Score: 92)
+   * They start engines, move throttles,switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. (Score: 90)
+   * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. (Score: 88)
+   * Align machines, cutterheads,or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. (Score: 87)
 
 * Is this job routine? Your judgment (0-10):8 The operator has a routine job having to operate the machines that print the models and do some routine and simple assemblies in certain pieces that have to be joined. Although the job is very mechanic, the operator is supposed to do certain tasks that are not that routine as controlling the condition of some parts.
 * Is this job cognitive? Your judgment (0-10): 3. The job is not highly cognitive as it is not necessary to do really difficult calculous and the knowledge it is needed to be applied is the basic about the utilization and operation of 3D printing machines. 
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-  * Operation and Control — Controlling operations of equipment or systems.See more occupations related to this skill. Score: 78  	
-  * Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.See more occupations related to this skill.  	Score: 56
-  * Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.  	Score: 56
-  * Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.  	Score: 53
-  * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.   Score:50
+  * Operation and Control — Controlling operations of equipment or systems.See more occupations related to this skill. (Score: 78)  	
+  * Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.See more occupations related to this skill.  	(Score: 56)
+  * Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.  	(Score: 56)
+  * Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. (Score: 53)
+  * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (Score: 50)
   
 * 5 technology skills:
   * Electronic mail software
@@ -195,7 +195,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 * X = ([[15,1,0,0],[17,1,0,0],[14,1,0,0],[6,0,1,0],[6,0,1,0],[5,0,1,0],[23,0,0,1],[27,0,0,1],[25,0,0,1]])
 * Y = ([[4],[6],[5],[13],[12],[13],[7],[7],[9]])
 
-From the unemployment data for each tree types of workers and taking into account the need for workers on average and per firm, if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators , the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. These predictions are the result of the calculations obtained from the matrix operations. The last matrix obtained was [4'3333,12'458,7'0417], so after the aproximations the predictions obtained are the metioned previously.
+From the unemployment data for each tree types of workers and taking into account the need for workers on average and per firm, if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators , the company is likely to need 4 managers, 12 engineers and 7 operators in one year from now. These predictions are the result of the calculations obtained from the matrix operations. The last matrix obtained was [4'3333,12'458,7'0417], so after the aproximations, the predictions obtained are the metioned previously.
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
@@ -207,7 +207,7 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers: 
-  * job openings: 3. The company will hire 3 managers because the shortage is 3 and the automation risk for this occupation job is only 7%. This means that the probability of automation of the job is very low. 
+  * Job openings: 3. The company will hire 3 managers because the shortage is 3 and the automation risk for this occupation job is only 7%. This means that the probability of automation of the job is very low. 
   * Occupation (SOC): Construction manager (11-9021.00) 
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills
@@ -231,7 +231,7 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
      *	Speaking: talking to others to convey information effectively 
 
 
-  * required credentials and year of experience: We need a candidate who has a completed bachelor’s degree in Engineering, Construction Management, or comparable field. It is important that the candidate has more than 10 years of experience in the sector. In addition, it is highly recognized that the person has project Management experience from design phase through implementation and operation. Besides, the candidate must have to ability to speak foreign languages and have a minimum of a C1 level in French. 
+  * Required credentials and year of experience: We need a candidate who has a completed bachelor’s degree in Engineering, Construction Management, or comparable field. It is important that the candidate has more than 10 years of experience in the sector. In addition, it is highly recognized that the person has project Management experience from design phase through implementation and operation. Besides, the candidate must have to ability to speak foreign languages and have a minimum of a C1 level in French. 
   * job type (full-time, part-time): full-time
   * Location: remote or in the office centers.
   * Salary, benefits and perks: $38,139.38. CZK 833.741,22.
@@ -240,12 +240,20 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
   Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
 ### Job posting for Engineers:
- * job openings: 12. The shortage for material engineers is 12 and the automation risk is 2%. As the automation risk is very low is very unlikey that the job desappears.
+ * Job openings: 12. The shortage for material engineers is 12 and the automation risk is 2%. As the automation risk is very low is very unlikey that the job desappears.
  * Occupation (SOC): Materials Engineers (17-2131.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
   We are a 3D printed home producer startup that is looking to add a passionate and self driven team member to expand our growing and fast-paced Engineering department. We develop houses and structures to enable people to live in an portable, ecologic and sustainable way. Our solutions are currently being used by more than 100 familiesbut this is just the starting point.
 As material engineer you will primarily be responsible for designing and participating in the production process of the final product. Material selection knowledge is needed for this job, specially the use of the press brake technology with the 3D printer. Also, familiarity with different types of pre and post processing programs is a must.
+
+* **Tasks**
+   *  	You will use your expertise to develop and implement the applicable sourcing strategy.
+   *  	You will have to consider the best materials to fit certain projects.
+   *  	To do this, you must interface directly with machine shops, sheet metal fabrication shops, 3D printing suppliers, internal staff members and management, as well as customers. We offer a luxury service which consists on assessing and personalizing the product with the client’s demands. 
+   *  	Additionally, you will take on special projects related to expanding the capabilities of our production process, making the needed suggestions to the managers to improve our core competencies. So you are required to evaluate mechanical design costs and find ways to reduce manufacturing costs while ensuring best-in-class product quality
+   *  	Provide mechanical design information for: 2D dimensional drawings from 3D models, 2D dimensional drawings, illustrations for installation, user and maintenance manuals and photorealistic product renderings
+   *  	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
 
 * **Skills**
    *  	Analyse product failure data and laboratory test results to determine causes of problems and developing solutions. 
@@ -256,15 +264,7 @@ As material engineer you will primarily be responsible for designing and partici
    *  	Design and direct the testing or control of processing procedures. 
    *  	Monitor material performance and evaluate material deterioration. It is essential for this job as we are very concerned about the obsolescence of our products, we ensure a quality warrant for our clients. 
 
-* **Tasks**
-   *  	You will use your expertise to develop and implement the applicable sourcing strategy.
-   *  	You will have to consider the best materials to fit certain projects.
-   *  	To do this, you must interface directly with machine shops, sheet metal fabrication shops, 3D printing suppliers, internal staff members and management, as well as customers. We offer a luxury service which consists on assessing and personalizing the product with the client’s demands. 
-   *  	Additionally, you will take on special projects related to expanding the capabilities of our production process, making the needed suggestions to the managers to improve our core competencies. So you are required to evaluate mechanical design costs and find ways to reduce manufacturing costs while ensuring best-in-class product quality
-   *  	Provide mechanical design information for: 2D dimensional drawings from 3D models, 2D dimensional drawings, illustrations for installation, user and maintenance manuals and photorealistic product renderings
-   *  	Lead the mechanical aspects of product design improvements and sustaining engineering redesign for obsolescence
-
-  * required credentials and year of experience: We need a candidate that dispose a bachelor’s degree in Engineering Technology or other related engineering. This person must have experience using computerized Maintenance tools. Furthermore, we employ only highly skilled staff with extensive international experience (minimum previous experience of 10 years in the sector). In addition, the candidate has to demonstrate languages developed skills, especially in English and French. 
+  * Required credentials and year of experience: We need a candidate that dispose a bachelor’s degree in Engineering Technology or other related engineering. This person must have experience using computerized Maintenance tools. Furthermore, we employ only highly skilled staff with extensive international experience (minimum previous experience of 10 years in the sector). In addition, the candidate has to demonstrate languages developed skills, especially in English and French. 
 * job type (full-time, part-time): full-time
 * Location: remote or offices center in Prague 
 * Salary, benefits and perks: $25,000 CZK 546.816
@@ -272,7 +272,7 @@ As material engineer you will primarily be responsible for designing and partici
  Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
  
 ### Job posting for Operators:
- * Job openings: The shortage is to hire 6 operating engineers but the automation risk is 95%. So we decide to offer only 1 job for this occupation because the company is not yet prepared to be completaly automated.
+ * Job openings: 1. The shortage is to hire 6 operating engineers but the automation risk is 95%. So we decide to offer only 1 job for this occupation because the company is not yet prepared to be completaly automated.
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
@@ -306,7 +306,7 @@ This position reports to a construction operator and you will be responsible for
      * This position requires a good attitude and a willingness to work.
      *	Must be able to communicate clearly and concisely.
  
-  * job type (full-time, part-time): full-time
+  * Job type (full-time, part-time): full-time
   * Location: in the office center in Prague
   * Salary, benefits and perks: $18,984 CZK 415.000
 
