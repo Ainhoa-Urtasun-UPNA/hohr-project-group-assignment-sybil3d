@@ -9,14 +9,11 @@
 ![3](https://user-images.githubusercontent.com/78742435/117506336-b9f0a880-af85-11eb-9523-6be84fd18a7c.jpg)
 ![12](https://user-images.githubusercontent.com/78742435/117569778-a3526a80-b0c7-11eb-8edb-233f13722b42.jpg)
 
-![We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living  Our technology is based on 3D and innovative production methods which align with the way we see lif-2](https://user-images.githubusercontent.com/78742435/117570103-3e980f80-b0c9-11eb-848c-29658a955c33.jpg)
-
 Here you can check our [main models and prices](https://ayushop.es/products/bolsa-que-ayuso-eres-hoy). 
 
-![8](https://user-images.githubusercontent.com/78742435/117569462-135ff100-b0c6-11eb-8880-58a1577d5c66.jpg)
-![9](https://user-images.githubusercontent.com/78742435/117569457-0fcc6a00-b0c6-11eb-9d1e-5464fdda1e32.jpg)
-![10](https://user-images.githubusercontent.com/78742435/117569444-fdeac700-b0c5-11eb-8208-d3e55dc0a3ca.jpg)![We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living  Our technology is based on 3D and innovative production methods which align with the way we see lif-3](https://user-images.githubusercontent.com/78742435/117583567-1da2df00-b108-11eb-816e-e80c25cec8dc.jpg)
-
+![8](https://user-images.githubusercontent.com/78742435/117583742-2d6ef300-b109-11eb-984b-7b845be17de1.jpg)
+![9](https://user-images.githubusercontent.com/78742435/117583748-319b1080-b109-11eb-8afe-a5221973d80d.jpg)
+![10](https://user-images.githubusercontent.com/78742435/117583749-33fd6a80-b109-11eb-9fb8-76b81e9072bb.jpg)
 
 ![4](https://user-images.githubusercontent.com/78742435/117569765-9170c780-b0c7-11eb-9a9a-0fe9a309bb08.jpg)
 ![5](https://user-images.githubusercontent.com/78742435/117569468-1ce95900-b0c6-11eb-8af3-c3780ae615cd.jpg)
@@ -36,6 +33,7 @@ Here you can check our [main models and prices](https://ayushop.es/products/bols
 ![Diapositiva3](https://user-images.githubusercontent.com/78743391/114754929-63fb5d00-9d59-11eb-9715-c0d86bc3417d.JPG)
 ![15](https://user-images.githubusercontent.com/78742435/117570028-d34e3d80-b0c8-11eb-89a6-e1b66e67983f.jpg)
 
+![We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living  Our technology is based on 3D and innovative production methods which align with the way we see lif-2](https://user-images.githubusercontent.com/78742435/117570103-3e980f80-b0c9-11eb-848c-29658a955c33.jpg)
 
 
 
