@@ -232,7 +232,7 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 
 
   * Required credentials and year of experience: We need a candidate who has a completed bachelor’s degree in Engineering, Construction Management, or comparable field. It is important that the candidate has more than 10 years of experience in the sector. In addition, it is highly recognized that the person has project Management experience from design phase through implementation and operation. Besides, the candidate must have to ability to speak foreign languages and have a minimum of a C1 level in French. 
-  * job type (full-time, part-time): full-time
+  * Job type (full-time, part-time): full-time
   * Location: remote or in the office centers.
   * Salary, benefits and perks: $38,139.38. CZK 833.741,22.
                                 
@@ -265,7 +265,7 @@ As material engineer you will primarily be responsible for designing and partici
    *  	Monitor material performance and evaluate material deterioration. It is essential for this job as we are very concerned about the obsolescence of our products, we ensure a quality warrant for our clients. 
 
   * Required credentials and year of experience: We need a candidate that dispose a bachelor’s degree in Engineering Technology or other related engineering. This person must have experience using computerized Maintenance tools. Furthermore, we employ only highly skilled staff with extensive international experience (minimum previous experience of 10 years in the sector). In addition, the candidate has to demonstrate languages developed skills, especially in English and French. 
-* job type (full-time, part-time): full-time
+* Job type (full-time, part-time): full-time
 * Location: remote or offices center in Prague 
 * Salary, benefits and perks: $25,000 CZK 546.816
  
@@ -276,17 +276,18 @@ As material engineer you will primarily be responsible for designing and partici
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
   * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
   * List of task and skills: 
-    * Job summary
+
 This position reports to a construction operator and you will be responsible for the safe operation of process equipment on the construction projects to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. You will lead operations of a team on a wide range of project and task related assignments. Primary responsibilities will also include the manage, maintenance and operational tasks, the maintenance of a high level of professionalism, the commitment to quality production, coordinating machine actions with other activities, the positioning or moving loads in response to hand or audio signals from crew members. This position will also assist with the construction and de-mobilization of projects and various sites. Overall, the successful candidate will be a key part of the engineering team and will be responsible for the correct realization of the production process inside the company. 
 
-  * Responsibilities
-     * Learn and follow safety regulations, 
+* **Tasks**
+     * Learn and follow safety regulations. 
      * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. 
      * Start engines, move throttles, switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. 
      * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. 
      * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. 
-   * A successful candidate will possess the following skills and attributes:
-     *Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+
+* **A successful candidate will possess the following skills and attributes:**
+     * Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
      * Control operations of equipment or systems.
      * Supervise and perform equipment Maintenance determining when and what kind of maintenance is needed.
      * Take care of the operation Monitoring by watching gauges, dials, or other indicators to make sure that machines are working properly.
@@ -296,7 +297,7 @@ This position reports to a construction operator and you will be responsible for
      * To perform this job successfully, an individual should be able to type and use keyboards accurately and have knowledge of Database software.
 
 
-  * required credentials and year of experience:
+  * Required credentials and year of experience:
      * Experience: Two or more years in the construction industry
      * Some experience using PC and software applications, including Microsoft Word, Excel, and PowerPoint.
      * Valid driver's license and good driving habits because based on assigned tasks, employee may be assigned a company vehicle requiring the applicable driver's license
