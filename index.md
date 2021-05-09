@@ -9,7 +9,7 @@
 ![3](https://user-images.githubusercontent.com/78742435/117506336-b9f0a880-af85-11eb-9523-6be84fd18a7c.jpg)
 ![12](https://user-images.githubusercontent.com/78742435/117569778-a3526a80-b0c7-11eb-8edb-233f13722b42.jpg)
 
-![image](https://user-images.githubusercontent.com/78743391/114409830-23f67780-9bab-11eb-9f7f-cfbd7bfa510f.png)
+![We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living  Our technology is based on 3D and innovative production methods which align with the way we see lif-2](https://user-images.githubusercontent.com/78742435/117570103-3e980f80-b0c9-11eb-848c-29658a955c33.jpg)
 
 Here you can check our [main models and prices](https://ayushop.es/products/bolsa-que-ayuso-eres-hoy). 
 
