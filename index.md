@@ -13,13 +13,14 @@
 
 Here you can check our [main models and prices](https://ayushop.es/products/bolsa-que-ayuso-eres-hoy). 
 
+![8](https://user-images.githubusercontent.com/78742435/117569462-135ff100-b0c6-11eb-8880-58a1577d5c66.jpg)
+![9](https://user-images.githubusercontent.com/78742435/117569457-0fcc6a00-b0c6-11eb-9d1e-5464fdda1e32.jpg)
+![10](https://user-images.githubusercontent.com/78742435/117569444-fdeac700-b0c5-11eb-8208-d3e55dc0a3ca.jpg)![We are a small company founded in 2020 whose main objective is to bring a simple, efficient and cheap way of living  Our technology is based on 3D and innovative production methods which align with the way we see lif-3](https://user-images.githubusercontent.com/78742435/117583567-1da2df00-b108-11eb-816e-e80c25cec8dc.jpg)
+
+
 ![4](https://user-images.githubusercontent.com/78742435/117569765-9170c780-b0c7-11eb-9a9a-0fe9a309bb08.jpg)
 ![5](https://user-images.githubusercontent.com/78742435/117569468-1ce95900-b0c6-11eb-8af3-c3780ae615cd.jpg)
 ![6](https://user-images.githubusercontent.com/78742435/117569464-1955d200-b0c6-11eb-8860-70081cd47b01.jpg)
-
-![8](https://user-images.githubusercontent.com/78742435/117569462-135ff100-b0c6-11eb-8880-58a1577d5c66.jpg)
-![9](https://user-images.githubusercontent.com/78742435/117569457-0fcc6a00-b0c6-11eb-9d1e-5464fdda1e32.jpg)
-![10](https://user-images.githubusercontent.com/78742435/117569444-fdeac700-b0c5-11eb-8208-d3e55dc0a3ca.jpg)
   
   We are currently looking for new people to enlarge and enrich our multicultural team. Don't hesitate and [send us an email](https://www.google.com/search?q=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&bih=736&biw=1517&hl=es&ei=fFR0YNDJDsHFgwfDmYygDQ&oq=traducir+no+sabiamos+qu%C3%A9+poner+pero+hemos+puesto+este+link+para+ser+mas+guays&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANQ5hlY9iJgkSRoAHADeACAAdMEiAHAEJIBCzAuMy4xLjEuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjQ95Lx8PjvAhXB4uAKHcMMA9QQ4dUDCA0&uact=5). We are waiting for you! 
   
