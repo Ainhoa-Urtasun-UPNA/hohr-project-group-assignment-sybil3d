@@ -242,9 +242,8 @@ The expected number of available workers at the end of 2021 was 1 manager, 0 eng
 ### Job posting for Engineers:
  * Job openings: 12. The shortage for material engineers is 12 and the automation risk is 2%. As the automation risk is very low is very unlikey that the job desappears.
  * Occupation (SOC): Materials Engineers (17-2131.00)
-  * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
-  * List of task and skills: 
-  We are a 3D printed home producer startup that is looking to add a passionate and self driven team member to expand our growing and fast-paced Engineering department. We develop houses and structures to enable people to live in an portable, ecologic and sustainable way. Our solutions are currently being used by more than 100 familiesbut this is just the starting point.
+ * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
+ * List of task and skills: We are a 3D printed home producer startup that is looking to add a passionate and self driven team member to expand our growing and fast-paced Engineering department. We develop houses and structures to enable people to live in an portable, ecologic and sustainable way. Our solutions are currently being used by more than 100 familiesbut this is just the starting point.
 As material engineer you will primarily be responsible for designing and participating in the production process of the final product. Material selection knowledge is needed for this job, specially the use of the press brake technology with the 3D printer. Also, familiarity with different types of pre and post processing programs is a must.
 
 * **Tasks**
@@ -274,19 +273,17 @@ As material engineer you will primarily be responsible for designing and partici
 ### Job posting for Operators:
  * Job openings: 1. The shortage is to hire 6 operating engineers but the automation risk is 95%. So we decide to offer only 1 job for this occupation because the company is not yet prepared to be completaly automated.
  * Occupation (SOC): Operating engineers and other construction equipment operators (47-2073.00)
-  * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
-  * List of task and skills: 
+ * Industry (NAIC): 321991 Manufactured Home (Moble Home) Manufacturing
+ * List of task and skills: This position reports to a construction operator and you will be responsible for the safe operation of process equipment on the construction projects to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. You will lead operations of a team on a wide range of project and task related assignments. Primary responsibilities will also include the manage, maintenance and operational tasks, the maintenance of a high level of professionalism, the commitment to quality production, coordinating machine actions with other activities, the positioning or moving loads in response to hand or audio signals from crew members. This position will also assist with the construction and de-mobilization of projects and various sites. Overall, the successful candidate will be a key part of the engineering team and will be responsible for the correct realization of the production process inside the company. 
 
-This position reports to a construction operator and you will be responsible for the safe operation of process equipment on the construction projects to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. You will lead operations of a team on a wide range of project and task related assignments. Primary responsibilities will also include the manage, maintenance and operational tasks, the maintenance of a high level of professionalism, the commitment to quality production, coordinating machine actions with other activities, the positioning or moving loads in response to hand or audio signals from crew members. This position will also assist with the construction and de-mobilization of projects and various sites. Overall, the successful candidate will be a key part of the engineering team and will be responsible for the correct realization of the production process inside the company. 
-
-* **Tasks**
+ * **Tasks**
      * Learn and follow safety regulations. 
      * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects. 
      * Start engines, move throttles, switches,or levers, or depress pedals to operate machines,such as bulldozers, trench excavators, road graders, or backhoes. 
      * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members. 
      * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. 
 
-* **A successful candidate will possess the following skills and attributes:**
+ * **A successful candidate will possess the following skills and attributes:**
      * Exceptional listening ability giving attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
      * Control operations of equipment or systems.
      * Supervise and perform equipment Maintenance determining when and what kind of maintenance is needed.
@@ -297,7 +294,7 @@ This position reports to a construction operator and you will be responsible for
      * To perform this job successfully, an individual should be able to type and use keyboards accurately and have knowledge of Database software.
 
 
-  * Required credentials and year of experience:
+ * Required credentials and year of experience:
      * Experience: Two or more years in the construction industry
      * Some experience using PC and software applications, including Microsoft Word, Excel, and PowerPoint.
      * Valid driver's license and good driving habits because based on assigned tasks, employee may be assigned a company vehicle requiring the applicable driver's license
@@ -307,9 +304,9 @@ This position reports to a construction operator and you will be responsible for
      * This position requires a good attitude and a willingness to work.
      *	Must be able to communicate clearly and concisely.
  
-  * Job type (full-time, part-time): full-time
-  * Location: in the office center in Prague
-  * Salary, benefits and perks: $18,984 CZK 415.000
+ * Job type (full-time, part-time): full-time
+ * Location: in the office center in Prague
+ * Salary, benefits and perks: $18,984 CZK 415.000
 
 Sybil3D is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability status. In fact, we require from you to send your CV without any photo to ensure the equality of our process.
 
